@@ -1,0 +1,2 @@
+C:\Users\yena\Documents\Unreal Projects\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\Definitions.donut.h
+C:\Users\yena\Documents\Unreal Projects\donut\Source\donut\donut.h

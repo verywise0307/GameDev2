@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "donut",
+			"Path": "C:\\Users\\yena\\Documents\\Unreal Projects\\donut\\Source\\donut.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "donutEditor",
+			"Path": "C:\\Users\\yena\\Documents\\Unreal Projects\\donut\\Source\\donutEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

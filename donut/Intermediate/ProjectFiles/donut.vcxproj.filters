@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\donut.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C6FD631E-0600-4B36-9DBB-D5BEAED1DDB8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\donut.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\donutEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{2E2B3694-1CCA-4E8C-A726-7E5CCABDD95F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\donut">
+      <UniqueIdentifier>{70CE0C58-EF92-4184-86AD-70D84AE3FAB6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\donut\donut.Build.cs">
+      <Filter>Source\donut</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\donut\donut.cpp">
+      <Filter>Source\donut</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\donut\donut.h">
+      <Filter>Source\donut</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\donut\donutCharacter.cpp">
+      <Filter>Source\donut</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\donut\donutCharacter.h">
+      <Filter>Source\donut</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\donut\donutGameMode.cpp">
+      <Filter>Source\donut</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\donut\donutGameMode.h">
+      <Filter>Source\donut</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
