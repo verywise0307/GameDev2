@@ -1,7 +1,7 @@
 비디오 재생 : https://docs.unrealengine.com/4.26/ko/WorkingWithMedia/MediaFramework/HowTo/FileMediaSource/
 위젯 제거 : https://scarlettb.tistory.com/44
-머리위에 도넛 얹기 : https://unrealengine.tistory.com/11
-스태틱 메시 스켈레톤 메시로 변환 : https://blog.naver.com/PostView.nhn?blogId=oh-mms&logNo=222328252076
+
+
 
 
 
