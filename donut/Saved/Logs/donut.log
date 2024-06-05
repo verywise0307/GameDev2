@@ -887,3 +887,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.05-15.58.58:018][998]LogActorFactory: Actor Factory created Plane
 [2024.06.05-15.59.01:207][188]Cmd: SELECT NONE
 [2024.06.05-15.59.02:474][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2024.06.05-16.08.21:364][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.06.05-16.08.21:366][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Autosaves/Game/Maps/Stage1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.06.05-16.08.21:370][638]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1_Auto1E0AD631C4EC8AF5EB1CD49A6E285767E.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Autosaves/Game/Maps/Stage1_Auto1.umap'
+[2024.06.05-16.08.21:371][638]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Stage1' took 0.009
+[2024.06.05-16.08.21:371][638]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.009
+[2024.06.05-16.08.38:078][688]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.06.05-16.08.38:078][688]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Developers/은별/Collections/' because it could not be accessed. Aborting watch request...
+[2024.06.05-16.08.38:078][688]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Collections/' because it could not be accessed. Aborting watch request...
