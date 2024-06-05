@@ -1101,3 +1101,10 @@ Script Stack (0 frames):
 [2024.06.05-15.59.16:815][630]LogContentValidation: Display: WidgetBlueprint /Game/main/mainHUD.mainHUD 유효성 검사
 [2024.06.05-16.00.25:829][656]BlueprintLog: New page: mainHUD 컴파일
 [2024.06.05-16.00.25:854][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.06.05-16.09.16:064][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.06.05-16.09.16:066][676]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.019
+[2024.06.05-16.09.16:066][676]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/main/mainHUD] ([1] browsable assets)...
+[2024.06.05-16.09.16:066][676]OBJ SavePackage: Finished generating thumbnails for package [/Game/main/mainHUD]
+[2024.06.05-16.09.16:066][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main/mainHUD" FILE="../../../../../../Users/yena/Desktop/상명대/게임소프트웨어개발2/GameDev2/donut/Saved/Autosaves/Game/main/mainHUD_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.06.05-16.09.16:070][676]LogSavePackage: Moving '../../../../../../Users/yena/Desktop/상명대/게임소프트웨어개발2/GameDev2/donut/Saved/mainHUD_Auto24926D03549A329D0047AB8B0E9D16558.tmp' to '../../../../../../Users/yena/Desktop/상명대/게임소프트웨어개발2/GameDev2/donut/Saved/Autosaves/Game/main/mainHUD_Auto2.uasset'
+[2024.06.05-16.09.16:071][676]LogFileHelpers: Auto-saving content packages took 0.005
