@@ -5,3 +5,4 @@ donut/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 donut/Saved/Config/CrashReportClient/UE4CC-Windows-CB5501F1483DC4D0AA273B852E32FF4F/CrashReportClient.ini
 donut/Saved/AutoScreenshot.png
 donut/Intermediate/CachedAssetRegistry.bin
+donut/Intermediate/Build/Win64/donutEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch
