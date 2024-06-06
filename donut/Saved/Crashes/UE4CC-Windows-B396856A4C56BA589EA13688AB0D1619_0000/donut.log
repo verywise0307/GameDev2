@@ -1,0 +1,1269 @@
+﻿Log file open, 06/06/24 23:12:52
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: donut
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.603280
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/tpdus/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.06.06-14.12.53:772][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.06.06-14.12.53:772][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.06-14.12.53:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.06.06-14.12.53:773][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.06.06-14.12.53:774][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.06-14.12.53:774][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.06-14.12.53:793][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.06.06-14.12.53:793][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.06.06-14.12.53:794][  0]LogInit: Selected Device Profile: [Windows]
+[2024.06.06-14.12.53:794][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.06.06-14.12.53:794][  0]LogHAL: Display: Platform has ~ 8 GB [8247582720 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.06.06-14.12.53:794][  0]LogInit: Going up to parent DeviceProfile []
+[2024.06.06-14.12.53:794][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.06.06-14.12.53:794][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.06.06-14.12.53:795][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.06.06-14.12.53:802][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.06.06-14.12.53:802][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.06.06-14.12.53:802][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.06.06-14.12.53:802][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.06-14.12.53:802][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/unreal donut/GameDev2/donut/Saved/Config/Windows/Editor.ini]
+[2024.06.06-14.12.53:803][  0]LogInit: Computer: DESKTOP-JSY
+[2024.06.06-14.12.53:803][  0]LogInit: User: tpdus
+[2024.06.06-14.12.53:803][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.06.06-14.12.53:803][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.06.06-14.12.53:803][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx)
+[2024.06.06-14.12.53:803][  0]LogMemory: Platform Memory Stats for Windows
+[2024.06.06-14.12.53:803][  0]LogMemory: Process Physical Memory: 131.27 MB used, 131.27 MB peak
+[2024.06.06-14.12.53:803][  0]LogMemory: Process Virtual Memory: 109.14 MB used, 109.14 MB peak
+[2024.06.06-14.12.53:803][  0]LogMemory: Physical Memory: 5634.44 MB used,  2231.07 MB free, 7865.51 MB total
+[2024.06.06-14.12.53:803][  0]LogMemory: Virtual Memory: 134214960.00 MB used,  2771.71 MB free, 134217728.00 MB total
+[2024.06.06-14.12.53:815][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.06.06-14.12.53:904][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.06.06-14.12.53:908][  0]LogInit: Using OS detected language (ko-KR).
+[2024.06.06-14.12.53:908][  0]LogInit: Using OS detected locale (ko-KR).
+[2024.06.06-14.12.53:930][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2024.06.06-14.12.54:139][  0]LogInit: Setting process to per monitor DPI aware
+[2024.06.06-14.12.54:192][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.06-14.12.54:276][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.06.06-14.12.54:276][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.06.06-14.12.58:100][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.06.06-14.12.58:100][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.06.06-14.12.58:100][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.06.06-14.12.58:100][  0]LogD3D11RHI: D3D11 adapters:
+[2024.06.06-14.13.01:712][  0]LogD3D11RHI:    0. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2024.06.06-14.13.01:712][  0]LogD3D11RHI:       128/0/3932 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2024.06.06-14.13.01:719][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.06.06-14.13.01:719][  0]LogD3D11RHI:       0/0/3932 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.06.06-14.13.01:719][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.06.06-14.13.01:727][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.06.06-14.13.01:727][  0]LogD3D11RHI:     GPU DeviceId: 0x9a49 (for the marketing name, search the web for "GPU Device Id")
+[2024.06.06-14.13.01:727][  0]LogWindows: EnumDisplayDevices:
+[2024.06.06-14.13.01:728][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1)
+[2024.06.06-14.13.01:728][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.06.06-14.13.01:728][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.06.06-14.13.01:728][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2024.06.06-14.13.01:728][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2024.06.06-14.13.01:728][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(R) Xe Graphics
+[2024.06.06-14.13.01:728][  0]LogD3D11RHI:   Driver Version: 27.20.100.9415 (internal:27.20.100.9415, unified:27.20.100.9415)
+[2024.06.06-14.13.01:728][  0]LogD3D11RHI:      Driver Date: 3-22-2021
+[2024.06.06-14.13.01:728][  0]LogRHI: Texture pool is 1466 MB (70% of 2094 MB)
+[2024.06.06-14.13.03:986][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2024.06.06-14.13.04:005][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2024.06.06-14.13.04:005][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2024.06.06-14.13.04:007][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2024.06.06-14.13.04:012][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2024.06.06-14.13.04:012][  0]LogD3D11RHI: Async texture creation enabled
+[2024.06.06-14.13.04:012][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.06.06-14.13.04:054][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2024.06.06-14.13.04:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.06.06-14.13.04:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.06.06-14.13.04:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.06.06-14.13.04:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.06.06-14.13.04:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.06.06-14.13.04:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.06.06-14.13.04:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.06.06-14.13.04:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.06.06-14.13.04:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.06.06-14.13.04:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.06.06-14.13.04:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.06.06-14.13.04:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.06.06-14.13.04:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.06.06-14.13.04:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.06.06-14.13.04:531][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.06.06-14.13.04:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.06.06-14.13.04:552][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.06.06-14.13.04:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.06.06-14.13.04:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.06.06-14.13.04:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.06.06-14.13.04:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.06.06-14.13.04:628][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.06.06-14.13.04:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.06.06-14.13.04:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.06.06-14.13.04:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.06.06-14.13.04:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.06.06-14.13.04:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.06.06-14.13.04:707][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.06.06-14.13.04:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.06.06-14.13.04:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.06.06-14.13.04:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.06.06-14.13.04:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.06.06-14.13.04:750][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.06.06-14.13.04:766][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.06.06-14.13.04:941][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.06.06-14.13.04:943][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../../unreal donut/GameDev2/donut/Intermediate/Shaders/WorkingDirectory/2512/).
+[2024.06.06-14.13.04:943][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tpdus/AppData/Local/Temp/UnrealShaderWorkingDir/4D9C1EF246E9CF89B40FC7B4D08A6A73/'.
+[2024.06.06-14.13.04:943][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.06.06-14.13.04:943][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.06.06-14.13.09:713][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.06.06-14.13.09:856][  0]LogDerivedDataCache: Loaded boot cache 0.14s 85MB C:/Users/tpdus/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.06.06-14.13.09:856][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tpdus/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2024.06.06-14.13.09:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../unreal donut/GameDev2/donut/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.06.06-14.13.09:856][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.06.06-14.13.09:856][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../unreal donut/GameDev2/donut/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.06.06-14.13.09:856][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.06.06-14.13.09:875][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.06.06-14.13.09:875][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.06.06-14.13.09:875][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.06.06-14.13.09:955][  0]LogDerivedDataCache: Speed tests for C:/Users/tpdus/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.08 seconds
+[2024.06.06-14.13.09:955][  0]LogDerivedDataCache: Display: Performance to C:/Users/tpdus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.32ms. RandomReadSpeed=13.63MBs, RandomWriteSpeed=105.10MBs. Assigned SpeedClass 'Local'
+[2024.06.06-14.13.09:956][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tpdus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.06.06-14.13.09:956][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.06.06-14.13.09:956][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.06.06-14.13.10:011][  0]LogSlate: Using FreeType 2.10.0
+[2024.06.06-14.13.10:028][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.06.06-14.13.10:077][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2024.06.06-14.13.10:447][  0]LogInit: Selected Device Profile: [Windows]
+[2024.06.06-14.13.10:447][  0]LogInit: Active device profile: [00000239FB693600][00000239FA469980 49] Windows
+[2024.06.06-14.13.10:447][  0]LogInit: Profiles: [00000239FB693600][00000239FA469980 49] Windows, [00000239FB658B00][00000239FC5A3B00 49] WindowsNoEditor, [00000239FB690C00][00000239FC5A7C80 49] WindowsServer, [00000239FB65AF00][00000239FC5AA140 49] WindowsClient, [00000239FB692E00][00000239FC5AE2C0 49] IOS, [00000239FB659400][00000239FC5B2440 49] iPadAir, [00000239FB691300][00000239FC5B65C0 49] iPadAir2, [00000239FB620A00][00000239FC5BE880 49] IPadPro, [00000239FB620B00][00000239FC5BA8C0 49] iPadAir3, [00000239FB692900][00000239FC5C2A40 49] iPadAir4, [00000239FB623800][00000239FC5C6BC0 49] iPadMini2, [00000239FB691700][00000239FC5CAD40 49] iPadMini3, [00000239FB622000][00000239FC5CEEC0 49] iPadMini4, [00000239FB693800][00000239FC5D3040 49] iPadMini5, [00000239FB658800][00000239FC5DB300 49] iPhone6, [00000239FB65BA00][00000239FC5D7340 49] iPodTouch6, [00000239FB622400][00000239FC5E3600 49] iPhone7, [00000239FB622300][00000239FC5DF640 49] iPodTouch7, [00000239FB65B900][00000239FA46D780 49] iPhone5S, [00000239FB622E00][00000239FC5E78C0 49] iPhone6Plus, [00000239FB65B800][00000239FC5EBA00 49] iPhone6S, [00000239FB622F00][00000239FC5F3B80 49] iPhone6SPlus, [00000239FB659E00][00000239FC5F7D00 49] iPhone7Plus, [00000239FB621600][00000239FC5FA1C0 49] iPhoneSE, [00000239FB658F00][00000239FC5FE340 49] iPhone8, [00000239FB623B00][00000239FC6024C0 49] iPhone8Plus, [00000239FB65A200][00000239FC606640 49] iPhoneX, [00000239FB621F00][00000239FC60A7C0 49] iPhoneXS, [00000239FB65AC00][00000239FC60E940 49] iPhoneXSMax, [00000239FB621500][00000239FC612AC0 49] iPhoneXR, [00000239FB658C00][00000239FC616C40 49] iPhone11, [00000239FB620900][00000239FC61ADC0 49] iPhone11Pro, [00000239FB658400][00000239FC61EF40 49] iPhone11ProMax, [00000239FB623000][00000239FC6230C0 49] iPhoneSE2, [00000239FB658300][00000239FC627240 49] iPhone12Mini, [00000239FB620C00][00000239FC62B3C0 49] iPhone12, [00000239FB65BF00][00000239FC62F540 49] iPhone12Pro, [00000239FB623900][00000239FC6336C0 49] iPhone12ProMax, [00000239FB659D00][00000239FC5EF800 49] iPadPro105, [00000239FB623700][00000239FC637940 49] iPadPro129, [00000239FB65B600][00000239FC63BA80 49] iPadPro97, [00000239FB620500][00000239FC643C00 49] iPadPro2_129, [00000239FB65BC00][00000239FC6460C0 49] iPad5, [00000239FB623E00][00000239FC64A240 49] iPad6, [00000239FB659000][00000239FC64E3C0 49] iPad7, [00000239FB623200][00000239FC652540 49] iPad8, [00000239FB65A100][00000239FC6566C0 49] iPadPro11, [00000239FB621A00][00000239FC65A840 49] iPadPro2_11, [00000239FB658700][00000239FC65E9C0 49] iPadPro3_129, [00000239FB622D00][00000239FC662B40 49] iPadPro4_129, [00000239FB659A00][00000239FC666CC0 49] AppleTV, [00000239FB623C00][00000239FC66AE40 49] AppleTV4K, [00000239FB65B500][00000239FC66EFC0 49] TVOS, [00000239FB620400][00000239FC673140 49] Mac, [00000239FB65AD00][00000239FC6772C0 49] MacClient, [00000239FB623500][00000239FC67B440 49] MacNoEditor, [00000239FB65A400][00000239FC67F5C0 49] MacServer, [00000239FB620300][00000239FC683740 49] Linux, [00000239FB690900][00000239FC63F880 49] LinuxAArch64, [00000239FB6D5A00][00000239FC6879C0 49] LinuxNoEditor, [00000239FB693700][00000239FC68BB00 49] LinuxAArch64NoEditor, [00000239FB6D5500][00000239FC68FC40 49] LinuxClient, [00000239FB690700][00000239FC696100 49] LinuxAArch64Client, [00000239FB6D4400][00000239FC69A280 49] LinuxServer, [00000239FB693E00][00000239FC69E400 49] LinuxAArch64Server, [00000239FB6D5600][00000239FC6A2580 49] Android, [00000239FB691400][00000239FC6A6700 49] Android_Low, [00000239FB6D4200][00000239FC6AA880 49] Android_Mid, [00000239FB691E00][00000239FC6AEA00 49] Android_High, [00000239FB6D4600][00000239FC6B2B80 49] Android_Default, [00000239FB692100][00000239FC6B6D00 49] Android_Adreno4xx, [00000239FB6D4300][00000239FC6BAE80 49] Android_Adreno5xx_Low, [00000239FB690400][00000239FC6BF000 49] Android_Adreno5xx, [00000239FB6D4900][00000239FC6C3180 49] Android_Adreno6xx, [00000239FB622B00][00000239FC6C7300 49] Android_Adreno6xx_Vulkan, [00000239FB65B100][00000239FC6CB480 49] Android_Mali_T6xx, [00000239FB623400][00000239FC6CF600 49] Android_Mali_T7xx, [00000239FB659B00][00000239FC6D3780 49] Android_Mali_T8xx, [00000239FB621E00][00000239FC6938C0 49] Android_Mali_G71, [00000239FB65BB00][00000239FC6D7A00 49] Android_Mali_G72, [00000239FB621C00][00000239FC6DBB40 49] Android_Mali_G72_Vulkan, [00000239FB658100][00000239FC6DFC80 49] Android_Mali_G76, [00000239FB621B00][00000239FC6E6140 49] Android_Mali_G76_Vulkan, [00000239FB658D00][00000239FC6EA2C0 49] Android_Mali_G77, [00000239FB621000][00000239FC6EE440 49] Android_Mali_G77_Vulkan, [00000239FB659500][00000239FC6F25C0 49] Android_Vulkan_SM5, [00000239FB623600][00000239FC6F6740 49] Android_PowerVR_G6xxx, [00000239FB65A900][00000239FC6FA8C0 49] Android_PowerVR_GT7xxx, [00000239FB621D00][00000239FC6FEA40 49] Android_PowerVR_GE8xxx, [00000239FB658A00][00000239FC702BC0 49] Android_PowerVR_GM9xxx, [00000239FB621200][00000239FC706D40 49] Android_PowerVR_GM9xxx_Vulkan, [00000239FB6D4B00][00000239FC70AEC0 49] Android_TegraK1, [00000239FB623D00][00000239FC70F040 49] Android_Unknown_Vulkan, [00000239FB6D5800][00000239FC7131C0 49] Lumin, [00000239FB622500][00000239FC717340 49] Lumin_Desktop, [00000239FB6D5D00][00000239FC71B4C0 49] HoloLens, 
+[2024.06.06-14.13.10:677][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.06.06-14.13.10:677][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.06.06-14.13.10:677][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.06.06-14.13.10:677][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.06.06-14.13.10:678][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.06.06-14.13.10:739][  0]LogNetVersion: donut 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1575341251)
+[2024.06.06-14.13.11:755][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.06.06-14.13.11:852][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.095939 seconds
+[2024.06.06-14.13.11:859][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2024.06.06-14.13.11:859][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2024.06.06-14.13.11:859][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.06.06-14.13.12:838][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.06.06-14.13.12:846][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.06.06-14.13.13:245][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.06.06-14.13.13:245][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.06.06-14.13.13:259][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.06.06-14.13.13:267][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.06.06-14.13.13:280][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.06.06-14.13.13:317][  0]LogUProjectInfo: Found projects:
+[2024.06.06-14.13.13:790][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.06.06-14.13.13:826][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.06.06-14.13.13:826][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.06.06-14.13.13:969][  0]LogCollectionManager: Loaded 0 collections in 0.002349 seconds
+[2024.06.06-14.13.14:005][  0]LogFileCache: Scanning file cache for directory 'C:/unreal donut/GameDev2/donut/Saved/Collections/' took 0.00s
+[2024.06.06-14.13.14:005][  0]LogFileCache: Scanning file cache for directory 'C:/unreal donut/GameDev2/donut/Content/Developers/tpdus/Collections/' took 0.00s
+[2024.06.06-14.13.14:005][  0]LogFileCache: Scanning file cache for directory 'C:/unreal donut/GameDev2/donut/Content/Collections/' took 0.00s
+[2024.06.06-14.13.14:005][  0]LogOcInput: OculusInput pre-init called
+[2024.06.06-14.13.14:024][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2024.06.06-14.13.14:024][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2024.06.06-14.13.14:127][  0]LogEngine: Initializing Engine...
+[2024.06.06-14.13.14:130][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.06.06-14.13.14:130][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.06.06-14.13.14:134][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2024.06.06-14.13.14:288][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.06.06-14.13.14:336][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.06.06-14.13.14:340][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.06.06-14.13.14:349][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.06.06-14.13.14:349][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.06.06-14.13.14:349][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.06-14.13.14:349][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.06-14.13.14:349][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.06-14.13.14:349][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.06-14.13.14:349][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.06-14.13.14:349][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.06-14.13.14:349][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.06-14.13.14:350][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.06-14.13.14:350][  0]LogAudio: Display: Using built-in audio occlusion.
+[2024.06.06-14.13.14:351][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.06-14.13.14:373][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.06-14.13.14:373][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.06.06-14.13.14:890][  0]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2024.06.06-14.13.14:890][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.06-14.13.14:896][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.06-14.13.14:896][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.06-14.13.14:898][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.06-14.13.14:898][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.06-14.13.14:898][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.06-14.13.14:900][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.06-14.13.14:900][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.06-14.13.14:900][  0]LogInit: FAudioDevice initialized.
+[2024.06.06-14.13.14:901][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.06.06-14.13.14:901][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.06.06-14.13.14:963][  0]LogDerivedDataCache: Saved boot cache 0.06s 85MB C:/Users/tpdus/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.06.06-14.13.14:963][  0]LogInit: Texture streaming: Enabled
+[2024.06.06-14.13.14:989][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2024.06.06-14.13.14:997][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.06.06-14.13.14:997][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.06.06-14.13.15:000][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.06.06-14.13.15:054][  0]LogInit: Transaction tracking system initialized
+[2024.06.06-14.13.15:106][  0]BlueprintLog: New page: 에디터 로드
+[2024.06.06-14.13.15:291][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2024.06.06-14.13.15:366][  0]TimingProfiler: Initialize
+[2024.06.06-14.13.15:368][  0]TimingProfiler: OnSessionChanged
+[2024.06.06-14.13.15:368][  0]LoadingProfiler: Initialize
+[2024.06.06-14.13.15:368][  0]LoadingProfiler: OnSessionChanged
+[2024.06.06-14.13.15:368][  0]NetworkingProfiler: Initialize
+[2024.06.06-14.13.15:369][  0]NetworkingProfiler: OnSessionChanged
+[2024.06.06-14.13.15:369][  0]MemoryProfiler: Initialize
+[2024.06.06-14.13.15:369][  0]MemoryProfiler: OnSessionChanged
+[2024.06.06-14.13.15:662][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.06.06-14.13.15:662][  0]LogCook: Display: Mobile HDR setting 1
+[2024.06.06-14.13.15:968][  0]LogFileCache: Scanning file cache for directory 'C:/unreal donut/GameDev2/donut/Content/' took 0.05s
+[2024.06.06-14.13.16:397][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.06.06-14.13.16:408][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.06.06-14.13.16:408][  0]LogUnrealEdMisc: Loading editor; pre map load, took 25.391
+[2024.06.06-14.13.16:409][  0]Cmd: MAP LOAD FILE="../../../../../../unreal donut/GameDev2/donut/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.06-14.13.16:425][  0]LightingResults: New page: 라이팅 빌드
+[2024.06.06-14.13.16:431][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.06.06-14.13.16:431][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.06-14.13.16:431][  0]MapCheck: New page: 맵 체크
+[2024.06.06-14.13.16:431][  0]LightingResults: New page: 라이팅 빌드
+[2024.06.06-14.13.16:452][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.06.06-14.13.16:843][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2024.06.06-14.13.16:845][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.06.06-14.13.16:906][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.06-14.13.17:052][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.06.06-14.13.17:055][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.06-14.13.17:056][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.499ms.
+[2024.06.06-14.13.17:056][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.647
+[2024.06.06-14.13.17:065][  0]LogUnrealEdMisc: Total Editor Startup Time, took 26.048
+[2024.06.06-14.13.17:188][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft 입력기).
+[2024.06.06-14.13.17:383][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.06-14.13.17:393][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.06-14.13.17:401][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.06-14.13.17:408][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.06-14.13.17:459][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0161 seconds. Added 3603 classes and 861 folders.
+[2024.06.06-14.13.17:469][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2024.06.06-14.13.17:492][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.06.06-14.13.17:492][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:492][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.06.06-14.13.17:492][  0]LogPakFile: OnPakFileMounted2Time == 0.000186
+[2024.06.06-14.13.17:508][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.06.06-14.13.17:508][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:508][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.06.06-14.13.17:508][  0]LogPakFile: OnPakFileMounted2Time == 0.000192
+[2024.06.06-14.13.17:518][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.06.06-14.13.17:518][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:518][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.06.06-14.13.17:518][  0]LogPakFile: OnPakFileMounted2Time == 0.000198
+[2024.06.06-14.13.17:529][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.06.06-14.13.17:529][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:529][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.06.06-14.13.17:529][  0]LogPakFile: OnPakFileMounted2Time == 0.000204
+[2024.06.06-14.13.17:540][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.06.06-14.13.17:540][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:540][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.06.06-14.13.17:540][  0]LogPakFile: OnPakFileMounted2Time == 0.000211
+[2024.06.06-14.13.17:550][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.06.06-14.13.17:550][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:550][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.06.06-14.13.17:550][  0]LogPakFile: OnPakFileMounted2Time == 0.000217
+[2024.06.06-14.13.17:560][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.06.06-14.13.17:560][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:560][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.06.06-14.13.17:560][  0]LogPakFile: OnPakFileMounted2Time == 0.000223
+[2024.06.06-14.13.17:571][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.06.06-14.13.17:571][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:571][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.06.06-14.13.17:571][  0]LogPakFile: OnPakFileMounted2Time == 0.000230
+[2024.06.06-14.13.17:587][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.06.06-14.13.17:587][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:587][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.06.06-14.13.17:587][  0]LogPakFile: OnPakFileMounted2Time == 0.000236
+[2024.06.06-14.13.17:597][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.06.06-14.13.17:597][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:597][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.06.06-14.13.17:597][  0]LogPakFile: OnPakFileMounted2Time == 0.000242
+[2024.06.06-14.13.17:606][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.06.06-14.13.17:606][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:606][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.06.06-14.13.17:606][  0]LogPakFile: OnPakFileMounted2Time == 0.000248
+[2024.06.06-14.13.17:615][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.06.06-14.13.17:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.06.06-14.13.17:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000254
+[2024.06.06-14.13.17:625][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.06.06-14.13.17:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.06.06-14.13.17:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000260
+[2024.06.06-14.13.17:634][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.06.06-14.13.17:634][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:634][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.06.06-14.13.17:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000265
+[2024.06.06-14.13.17:646][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.06.06-14.13.17:646][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:646][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.06.06-14.13.17:646][  0]LogPakFile: OnPakFileMounted2Time == 0.000271
+[2024.06.06-14.13.17:654][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.06.06-14.13.17:654][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:654][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.06.06-14.13.17:654][  0]LogPakFile: OnPakFileMounted2Time == 0.000277
+[2024.06.06-14.13.17:664][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.06.06-14.13.17:664][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:664][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.06.06-14.13.17:664][  0]LogPakFile: OnPakFileMounted2Time == 0.000283
+[2024.06.06-14.13.17:676][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.06.06-14.13.17:676][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:676][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.06.06-14.13.17:676][  0]LogPakFile: OnPakFileMounted2Time == 0.000288
+[2024.06.06-14.13.17:685][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.06.06-14.13.17:685][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:685][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.06.06-14.13.17:685][  0]LogPakFile: OnPakFileMounted2Time == 0.000295
+[2024.06.06-14.13.17:701][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.06.06-14.13.17:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.06.06-14.13.17:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000301
+[2024.06.06-14.13.17:709][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.06.06-14.13.17:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.06.06-14.13.17:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000306
+[2024.06.06-14.13.17:720][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.06.06-14.13.17:720][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:720][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.06.06-14.13.17:720][  0]LogPakFile: OnPakFileMounted2Time == 0.000313
+[2024.06.06-14.13.17:729][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.06.06-14.13.17:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.06.06-14.13.17:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000318
+[2024.06.06-14.13.17:740][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.06.06-14.13.17:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.06.06-14.13.17:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000324
+[2024.06.06-14.13.17:748][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.06.06-14.13.17:748][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:748][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.06.06-14.13.17:748][  0]LogPakFile: OnPakFileMounted2Time == 0.000329
+[2024.06.06-14.13.17:759][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.06.06-14.13.17:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.06-14.13.17:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.06.06-14.13.17:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000335
+[2024.06.06-14.13.18:033][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.06.06-14.13.18:038][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2024.06.06-14.13.18:149][  0]LogSlate: Took 0.009567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.06.06-14.13.18:165][  0]LogSlate: Took 0.013895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2024.06.06-14.13.18:180][  0]LogSlate: Took 0.013399 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2024.06.06-14.13.18:188][  0]LogSlate: Took 0.008864 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.06.06-14.13.18:208][  0]LogSlate: Took 0.007998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.06.06-14.13.18:479][  0]LogRenderer: Reallocating scene render targets to support 964x440 Format 10 NumSamples 1 (Frame:1).
+[2024.06.06-14.13.19:523][  0]LogSlate: Took 0.014828 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.06-14.13.19:682][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2024.06.06-14.13.19:682][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2024.06.06-14.13.19:682][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2024.06.06-14.13.19:682][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2024.06.06-14.13.19:682][  0]LogLoad: (Engine Initialization) Total time: 28.66 seconds
+[2024.06.06-14.13.19:682][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.06.06-14.13.19:682][  0]LogInit: First time updating LLM stats...
+[2024.06.06-14.13.19:984][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.06.06-14.13.20:049][  1]LogAssetRegistry: Asset discovery search completed in 9.9743 seconds
+[2024.06.06-14.13.20:055][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000345 seconds (updated 0 objects)
+[2024.06.06-14.13.25:031][223]LogFileCache: Retrieving MD5 hashes for directory 'C:/unreal donut/GameDev2/donut/Content/' took 5.17s
+[2024.06.06-14.13.30:806][557]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.06.06-14.13.30:822][557]Candidate modules for hot reload:
+[2024.06.06-14.13.30:822][557]  donut
+[2024.06.06-14.13.30:822][557]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=donut,1831 donutEditor Win64 Development -Project="C:/unreal donut/GameDev2/donut/donut.uproject" "C:/unreal donut/GameDev2/donut/donut.uproject"  -IgnoreJunk]
+[2024.06.06-14.13.30:831][557]Warning: Starting HotReload took  0.0s.
+[2024.06.06-14.15.00:946][587]CompilerResultsLog: New page: 컴파일 - 2024. 6. 7. 오전 8:15:00
+[2024.06.06-14.15.00:952][587]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\unreal donut\GameDev2).
+[2024.06.06-14.15.00:952][587]CompilerResultsLog: Creating makefile for donutEditor (config setting changed)
+[2024.06.06-14.15.00:953][587]CompilerResultsLog: Parsing headers for donutEditor
+[2024.06.06-14.15.00:953][587]CompilerResultsLog:   Running UnrealHeaderTool "C:\unreal donut\GameDev2\donut\donut.uproject" "C:\unreal donut\GameDev2\donut\Intermediate\Build\Win64\donutEditor\Development\donutEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\tpdus\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2024.06.06-14.15.00:954][587]CompilerResultsLog: Reflection code generated for donutEditor in 26.0511914 seconds
+[2024.06.06-14.15.00:954][587]CompilerResultsLog: Building donutEditor...
+[2024.06.06-14.15.00:954][587]CompilerResultsLog: Using Visual Studio 2019 14.32.31329 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.06.06-14.15.00:954][587]CompilerResultsLog: Building 13 actions with 8 processes...
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [1/13] Default.rc2
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [2/13] SharedPCH.Engine.ShadowErrors.cpp
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [3/13] Item_fresh.cpp
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [4/13] donut.init.gen.cpp
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [5/13] donut.cpp
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [6/13] donutCharacter.gen.cpp
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [7/13] donutGameMode.cpp
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [8/13] donutGameMode.gen.cpp
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [9/13] Item_fresh.gen.cpp
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [10/13] donutCharacter.cpp
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [11/13] UE4Editor-donut-1831.lib
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:      C:\unreal donut\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\UE4Editor-donut-1831.lib ???̺귯?? ?? C:\unreal donut\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\UE4Editor-donut-1831.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [12/13] UE4Editor-donut-1831.dll
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:      C:\unreal donut\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\UE4Editor-donut-1831.suppressed.lib ???̺귯?? ?? C:\unreal donut\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\UE4Editor-donut-1831.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+[2024.06.06-14.15.00:954][587]CompilerResultsLog:   [13/13] donutEditor.target
+[2024.06.06-14.15.00:954][587]CompilerResultsLog: Total time in Parallel executor: 58.37 seconds
+[2024.06.06-14.15.00:954][587]CompilerResultsLog: Total execution time: 89.83 seconds
+[2024.06.06-14.15.00:955][587]LogMainFrame: MainFrame: Module compiling took 90.149 seconds
+[2024.06.06-14.15.01:171][587]LogClass: Could not find existing class Item_fresh in package /Script/donut for HotReload, assuming new class
+[2024.06.06-14.15.01:219][587]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'donut' in 0.0039 seconds. Added 3 classes and 2 folders.
+[2024.06.06-14.15.01:222][587]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.06.06-14.15.01:417][587]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0191 seconds. Added 3604 classes and 861 folders.
+[2024.06.06-14.15.01:419][587]Display: HotReload took 90.6s.
+[2024.06.06-14.15.18:056][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.06.06-14.15.18:142][299]LogSlate: Took 0.000860 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.06-14.15.20:698][299]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Stage1.Stage1
+[2024.06.06-14.15.20:699][299]Cmd: MAP LOAD FILE="../../../../../../unreal donut/GameDev2/donut/Content/Maps/Stage1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.06-14.15.20:700][299]LightingResults: New page: 라이팅 빌드
+[2024.06.06-14.15.20:701][299]LoadErrors: New page: 맵 로드중: Stage1.umap
+[2024.06.06-14.15.20:719][299]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.06-14.15.20:722][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.06-14.15.20:724][299]MapCheck: New page: 맵 체크
+[2024.06.06-14.15.20:724][299]LightingResults: New page: 라이팅 빌드
+[2024.06.06-14.15.20:734][299]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.06-14.15.20:760][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.06.06-14.15.20:763][299]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage1'.
+[2024.06.06-14.15.20:808][299]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.06-14.15.20:808][299]LogAIModule: Creating AISystem for world Stage1
+[2024.06.06-14.15.20:842][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.06.06-14.15.20:861][299]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.06-14.15.20:866][299]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 2.995ms.
+[2024.06.06-14.15.20:866][299]LogFileHelpers: Loading map 'Stage1' took 0.167
+[2024.06.06-14.19.16:120][516]MapCheck: New page: 맵 체크
+[2024.06.06-14.19.16:167][516]Cmd: MAP REBUILD ALLVISIBLE
+[2024.06.06-14.19.16:167][516]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.06.06-14.19.16:174][516]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=false
+[2024.06.06-14.19.16:287][516]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.06.06-14.19.16:287][516]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2024.06.06-14.19.16:287][516]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2024.06.06-14.19.16:310][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.06.06-14.19.16:323][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:345][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:349][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2024.06.06-14.19.16:349][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2024.06.06-14.19.16:349][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:351][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:354][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:357][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:360][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:363][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:366][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:368][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:371][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:375][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:378][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2024.06.06-14.19.16:378][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2024.06.06-14.19.16:378][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:383][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:387][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:389][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:394][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:398][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:402][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.16:405][516]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 27
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2024.06.06-14.19.20:977][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2024.06.06-14.19.20:978][516]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2024.06.06-14.19.20:978][516]TextureStreamingBuild: Display: Compiling optional shaders took 4.664 seconds.
+[2024.06.06-14.19.21:615][516]LogLevel: Display: Export Material TexCoord Scales took 0.637 seconds.
+[2024.06.06-14.19.21:618][516]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2024.06.06-14.19.21:626][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.06.06-14.19.21:632][516]LightingResults: New page: 라이팅 빌드 - 2024. 6. 7. 오전 8:19:21
+[2024.06.06-14.19.21:713][516]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.06.06-14.19.21:835][516]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.06.06-14.19.21:894][516]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.06.06-14.19.22:417][516]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.06.06-14.19.22:417][516]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2512
+[2024.06.06-14.19.30:501][516]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.06.06-14.19.30:502][516]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.06.06-14.19.30:502][516]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.06.06-14.19.30:502][516]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.06.06-14.19.30:502][516]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.06.06-14.19.30:502][516]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.06.06-14.19.30:736][516]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.06.06-14.19.30:736][516]MapCheck: New page: Stage1 - 2024. 6. 7. 오전 8:19:30
+[2024.06.06-14.19.30:738][516]MapCheck: Error: WorldSettings 맵 라이팅을 리빌드해야 합니다. 
+[2024.06.06-14.19.30:743][516]MapCheck: Warning: Food_Bread_Dount_01_2 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2024.06.06-14.19.30:743][516]MapCheck: 맵 체크 완료: 오류 1 회, 경고 1 회, 소요 시간 7.338ms.
+[2024.06.06-14.19.30:747][516]LogEditorBuildUtils: Build time 0:14
+[2024.06.06-14.19.31:050][516]LogSlate: Took 0.006381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.06.06-14.19.31:065][516]LogSlate: Took 0.014813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2024.06.06-14.19.32:328][555]LogLightmassSolver: Warning: Failed to open channel for material data for BCE9B8E349B653D53AE25694C84ADA0D: /Game/EF_Edie/Shared/House/Environments/TheresaRoom/WritingDesk/WritingDeskWood_a_Mat.WritingDeskWood_a_Mat
+[2024.06.06-14.19.32:361][556]LogLightmassSolver: Warning: Failed to open channel for material data for ADC2740145CFDEF4E05A25853230F460: /Game/EF_Edie/Common/Materials/Wood/WM_WoodRough_b_mat.WM_WoodRough_b_mat
+[2024.06.06-14.19.32:381][557]LogLightmassSolver: Warning: Failed to open channel for material data for 5116E09B44FE71D18767EF912EC2FCF7: /Game/EF_Edie/Shared/Floor4/ThomasRoom/MeltedCandle/MeltedCandle_d_Mat.MeltedCandle_d_Mat
+[2024.06.06-14.19.32:400][558]LogLightmassSolver: Warning: Failed to open channel for material data for 7DF4A720411B75C6F641D7B547B24CDF: /Game/EF_Edie/Common/Materials/Wood/WM_WoodRough_b_Yellow_mat.WM_WoodRough_b_Yellow_mat
+[2024.06.06-14.19.32:421][559]LogLightmassSolver: Warning: Failed to open channel for material data for 59CD833143FAA3DDFFBC20A4EBAA54FC: /Game/EF_Edie/Common/Materials/Wood/WM_LaqueredBlackWood_a_Mat.WM_LaqueredBlackWood_a_Mat
+[2024.06.06-14.19.32:441][560]LogLightmassSolver: Warning: Failed to open channel for material data for 5F8945DF4B3CCE657B8F1DB6B0BD04F6: /Game/EF_Edie/Common/Materials/Wood/WM_WoodRough_b_White_mat.WM_WoodRough_b_White_mat
+[2024.06.06-14.19.32:459][561]LogLightmassSolver: Warning: Failed to open channel for material data for 7DCF5704454BE12B659C819181E10E19: /Game/EF_Edie/Common/Materials/Wood/WM_WoodRough_b_Coral2_mat.WM_WoodRough_b_Coral2_mat
+[2024.06.06-14.19.32:489][562]LogLightmassSolver: Warning: Failed to open channel for material data for 3005B61A4F5FC68CF17F7493CEB69CE3: /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2024.06.06-14.19.32:548][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:553][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask failed with error code -13
+[2024.06.06-14.19.32:554][564]LogLightmassSolver: Warning: Error, AddTask for StaticShadowDepthMaps failed with error code -13
+[2024.06.06-14.19.32:564][564]LogStaticLightingSystem: Warning: Failed to build lighting!!! 라이팅 빌드가 실패했습니다. 스웜 시작에 실패했습니다. 언리얼 라이트매스를 컴파일합니다.
+[2024.06.06-14.19.32:565][564]DumpUnbuiltLightIteractions
+[2024.06.06-14.19.32:565][564]Lights with unbuilt interactions: 1
+[2024.06.06-14.19.32:565][564]    Light DirectionalLight_2
+[2024.06.06-14.19.32:565][564]
+[2024.06.06-14.19.32:565][564]Primitives with unbuilt interactions: 39
+[2024.06.06-14.19.32:565][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.BoxCandle2.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.Gnome_a_42.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.CardboardBoxClosed3_39.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.BoxCandle_32.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.CardboardBoxClosed2.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.BookshelfInset_a_28.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.WallShelfWood_b_20.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.Door_a_17.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.BookstackHorizontal_e_14.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.BookstackHorizontal_d_11.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.BookstackHorizontal_c_8.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.BookstackHorizontal_b_5.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.BookstackHorizontal_a_2.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.Plane7.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.Plane6.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.TheresaStandingPhoto_a_78.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.PillBottle_b_75.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.PillBottle_a_72.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.CardboardBoxClosed_57.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.Plane_2.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.TheresaQuilt_a_30.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.ArmchairBlanket_a_12.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.Armchair_b_9.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.Plane5.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.Plane4.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.Plane3.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.Plane2.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.WoodChair_a_38.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.WritingDesk_a_35.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.Wardrobe_a_32.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.Vanity_a_29.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.TvTray_a_26.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.TV_a_23.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.SewingMachineDesk_a_20.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.SecretPassageShelf_a_17.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.HospitalBedPillow_a_8.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.HospitalBed_a_5.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.CardboardBoxOpen_2.StaticMeshComponent0
+[2024.06.06-14.19.32:566][564]    Primitive StaticMeshComponent /Game/Maps/Stage1.Stage1:PersistentLevel.DeskLamp_a_54.StaticMeshComponent0
+[2024.06.06-14.19.32:768][565]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.06.06-14.19.32:768][565]MapCheck: New page: Stage1 - 2024. 6. 7. 오전 8:19:32
+[2024.06.06-14.19.32:768][565]MapCheck: Error: WorldSettings 맵 라이팅을 리빌드해야 합니다. 
+[2024.06.06-14.19.32:769][565]MapCheck: Warning: Food_Bread_Dount_01_2 스태틱 메시 액터에 NULL StaticMesh 프로퍼티가 있습니다. 
+[2024.06.06-14.19.32:769][565]MapCheck: 맵 체크 완료: 오류 1 회, 경고 1 회, 소요 시간 0.658ms.
+[2024.06.06-14.19.37:989][908]LogSlate: Window '메시지 로그' being destroyed
+[2024.06.06-14.19.38:002][908]LogSlate: Window '메시지 로그' being destroyed
+[2024.06.06-14.24.57:687][274]Candidate modules for hot reload:
+[2024.06.06-14.24.57:690][274]  donut
+[2024.06.06-14.24.57:695][274]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=donut,3876 donutEditor Win64 Development -Project="C:/unreal donut/GameDev2/donut/donut.uproject" "C:/unreal donut/GameDev2/donut/donut.uproject"  -IgnoreJunk]
+[2024.06.06-14.24.57:705][274]Warning: Starting HotReload took  0.3s.
+[2024.06.06-14.25.12:319][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2024.06.06-14.25.32:561][752]CompilerResultsLog: New page: 컴파일 - 2024. 6. 7. 오전 8:25:32
+[2024.06.06-14.25.32:564][752]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\unreal donut\GameDev2).
+[2024.06.06-14.25.32:564][752]CompilerResultsLog: Parsing headers for donutEditor
+[2024.06.06-14.25.32:565][752]CompilerResultsLog:   Running UnrealHeaderTool "C:\unreal donut\GameDev2\donut\donut.uproject" "C:\unreal donut\GameDev2\donut\Intermediate\Build\Win64\donutEditor\Development\donutEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\tpdus\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2024.06.06-14.25.32:565][752]CompilerResultsLog: Reflection code generated for donutEditor in 13.9581542 seconds
+[2024.06.06-14.25.32:565][752]CompilerResultsLog: Building donutEditor...
+[2024.06.06-14.25.32:565][752]CompilerResultsLog: Using Visual Studio 2019 14.32.31329 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2024.06.06-14.25.32:565][752]CompilerResultsLog: Building 5 actions with 8 processes...
+[2024.06.06-14.25.32:565][752]CompilerResultsLog:   [1/5] Item_fresh.cpp
+[2024.06.06-14.25.32:565][752]CompilerResultsLog:    C:\unreal donut\GameDev2\donut\Source\donut\Item_fresh.cpp(26) : error C2065: 'Ltime': ???????? ???? ?ĺ????Դϴ?.
+[2024.06.06-14.25.32:565][752]CompilerResultsLog:    C:\unreal donut\GameDev2\donut\Source\donut\Item_fresh.cpp(26) : error C2955: 'TIsArrayOrRefOfType': Ŭ???? ???ø???(??) ?????Ϸ??? ???ø? ?μ? ?????? ?ʿ??մϴ?.
+[2024.06.06-14.25.32:565][752]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h(13): note: 'TIsArrayOrRefOfType' ?????? ?????Ͻʽÿ?.
+[2024.06.06-14.25.32:565][752]CompilerResultsLog:   [2/5] Item_fresh.gen.cpp
+[2024.06.06-14.25.32:565][752]LogMainFrame: MainFrame: Module compiling took 35.091 seconds
+[2024.06.06-14.25.32:662][752]Warning: HotReload failed, recompile failed
+[2024.06.06-14.25.35:074][851]LogSlate: Took 0.031472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.06.06-14.25.35:074][851]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'Դ (U+0534)'
+[2024.06.06-14.25.35:090][851]LogSlate: Took 0.014840 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2024.06.06-14.25.44:606][345]LogSlate: Window '메시지 로그' being destroyed
+[2024.06.06-14.25.44:639][345]LogSlate: Window '메시지 로그' being destroyed
+[2024.06.06-14.26.10:263][672]LogUObjectHash: Compacting FUObjectHashTables data took  15.09ms
+[2024.06.06-14.26.10:310][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../unreal donut/GameDev2/donut/Saved/Autosaves/Game/Maps/Stage1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.06.06-14.26.10:476][672]LogSavePackage: Moving '../../../../../../unreal donut/GameDev2/donut/Saved/Stage1_Auto13C64487945C2C20E2AA31E8F488AED7D.tmp' to '../../../../../../unreal donut/GameDev2/donut/Saved/Autosaves/Game/Maps/Stage1_Auto1.umap'
+[2024.06.06-14.26.10:490][672]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Stage1' took 0.348
+[2024.06.06-14.26.10:491][672]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.348
+[2024.06.06-14.26.31:422][801]LogVSAccessor: Warning: Couldn't goto line number '1' in 'C:/unreal donut/GameDev2/donut/Source/donut/donutCharacter.h'
+[2024.06.06-14.26.31:427][801]LogVSAccessor: Warning: Couldn't open file 'C:/unreal donut/GameDev2/donut/Source/donut/donutCharacter.cpp'.
+[2024.06.06-14.31.51:022][214]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:340][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:341][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:341][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:341][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:341][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:341][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:341][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:341][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:341][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:341][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:341][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:342][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:342][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:342][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:342][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:342][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:342][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:342][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:342][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:343][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:344][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:346][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:347][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:348][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:348][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:348][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:348][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:348][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:348][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:348][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:348][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:348][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:348][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:348][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:348][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:363][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:363][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:373][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:373][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:425][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:425][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:425][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:425][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:460][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:460][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:471][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:500][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:500][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:506][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:519][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:520][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:527][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:527][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:527][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:531][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:534][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:563][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:578][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:636][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:638][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:638][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:643][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:668][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:672][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.31.51:672][214]LogVSAccessor: Warning: Couldn't access module table
+[2024.06.06-14.32.01:023][702]LogSlate: Took 0.009206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.06.06-14.32.04:956][710]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:356 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2024.06.06-14.32.04:956][710]LogD3D11RHI: [Aftermath] GDynamicRHI=00000239C1A4C900, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2024.06.06-14.32.04:970][710]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
