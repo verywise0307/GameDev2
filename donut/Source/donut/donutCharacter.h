@@ -68,5 +68,9 @@ public:
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
 	/** Returns FollowCamera subobject **/
 	FORCEINLINE class UCameraComponent* GetFollowCamera() const { return FollowCamera; }
+
+	// Example of a variable exposed to Blueprints
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "My Variables")
+	int purity;
 };
 

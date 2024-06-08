@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodedonut_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x3C69D59D,
+				0x93C99A1A,
 				0x2BDE86BD,
 				METADATA_PARAMS(nullptr, 0)
 			};
