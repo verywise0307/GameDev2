@@ -1,0 +1,3 @@
+C:\Users\NOTE\Documents\GitHub\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\Definitions.donut.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
