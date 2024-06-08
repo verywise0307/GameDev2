@@ -1,0 +1,1359 @@
+﻿Log file open, 06/08/24 22:24:27
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: donut
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.154037
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/yangc/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.08-13.24.29:933][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.06.08-13.24.29:933][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.08-13.24.29:933][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.08-13.24.30:011][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.06.08-13.24.30:011][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.06.08-13.24.30:012][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.06.08-13.24.30:013][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.06.08-13.24.30:014][  0]LogInit: Selected Device Profile: [Windows]
+[2024.06.08-13.24.30:014][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.06.08-13.24.30:015][  0]LogHAL: Display: Platform has ~ 16 GB [16938708992 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.06.08-13.24.30:015][  0]LogInit: Going up to parent DeviceProfile []
+[2024.06.08-13.24.30:016][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.06.08-13.24.30:016][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.06.08-13.24.30:017][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Scalability.ini]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.06.08-13.24.30:018][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.06.08-13.24.30:019][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.06.08-13.24.30:032][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.06.08-13.24.30:032][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.06.08-13.24.30:032][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.06.08-13.24.30:032][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Engine.ini]
+[2024.06.08-13.24.30:032][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Config/Windows/Editor.ini]
+[2024.06.08-13.24.30:034][  0]LogInit: Computer: DESKTOP-RUT4TFE
+[2024.06.08-13.24.30:034][  0]LogInit: User: yangc
+[2024.06.08-13.24.30:034][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.06.08-13.24.30:034][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.06.08-13.24.30:034][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2024.06.08-13.24.30:034][  0]LogMemory: Platform Memory Stats for Windows
+[2024.06.08-13.24.30:034][  0]LogMemory: Process Physical Memory: 133.70 MB used, 133.70 MB peak
+[2024.06.08-13.24.30:034][  0]LogMemory: Process Virtual Memory: 110.16 MB used, 110.16 MB peak
+[2024.06.08-13.24.30:034][  0]LogMemory: Physical Memory: 8608.89 MB used,  7545.12 MB free, 16154.01 MB total
+[2024.06.08-13.24.30:034][  0]LogMemory: Virtual Memory: 134207736.00 MB used,  9988.02 MB free, 134217728.00 MB total
+[2024.06.08-13.24.30:067][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.06.08-13.24.30:850][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.06.08-13.24.30:857][  0]LogInit: Using OS detected language (ko-KR).
+[2024.06.08-13.24.30:857][  0]LogInit: Using OS detected locale (ko-KR).
+[2024.06.08-13.24.30:888][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2024.06.08-13.24.31:406][  0]LogInit: Setting process to per monitor DPI aware
+[2024.06.08-13.24.31:506][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.06.08-13.24.31:696][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.06.08-13.24.31:697][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.06.08-13.24.37:974][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.06.08-13.24.37:974][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.06.08-13.24.37:974][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.06.08-13.24.37:974][  0]LogD3D11RHI: D3D11 adapters:
+[2024.06.08-13.24.38:355][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (Feature Level 11_0)
+[2024.06.08-13.24.38:355][  0]LogD3D11RHI:       5979/0/8077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2024.06.08-13.24.38:478][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2024.06.08-13.24.38:478][  0]LogD3D11RHI:       128/0/8077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.06.08-13.24.38:483][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.06.08-13.24.38:483][  0]LogD3D11RHI:       0/0/8077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.06.08-13.24.38:484][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.06.08-13.24.38:494][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.06.08-13.24.38:495][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2024.06.08-13.24.38:495][  0]LogWindows: EnumDisplayDevices:
+[2024.06.08-13.24.38:495][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2024.06.08-13.24.38:497][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.06.08-13.24.38:498][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2024.06.08-13.24.38:499][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (P:0 D:0)
+[2024.06.08-13.24.38:500][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (P:0 D:0)
+[2024.06.08-13.24.38:502][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (P:0 D:0)
+[2024.06.08-13.24.38:503][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (P:0 D:0)
+[2024.06.08-13.24.38:504][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.06.08-13.24.38:504][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti with Max-Q Design
+[2024.06.08-13.24.38:505][  0]LogD3D11RHI:   Driver Version: 546.26 (internal:31.0.15.4626, unified:546.26)
+[2024.06.08-13.24.38:505][  0]LogD3D11RHI:      Driver Date: 11-21-2023
+[2024.06.08-13.24.38:505][  0]LogRHI: Texture pool is 4185 MB (70% of 5979 MB)
+[2024.06.08-13.24.38:710][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.06.08-13.24.38:712][  0]LogD3D11RHI: Async texture creation enabled
+[2024.06.08-13.24.38:712][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.06.08-13.24.38:777][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2024.06.08-13.24.38:788][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.06.08-13.24.39:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.06.08-13.24.39:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.06.08-13.24.39:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.06.08-13.24.39:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.06.08-13.24.39:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.06.08-13.24.39:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.06.08-13.24.39:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.06.08-13.24.39:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.06.08-13.24.39:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.06.08-13.24.39:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.06.08-13.24.39:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.06.08-13.24.39:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.06.08-13.24.39:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.06.08-13.24.39:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.06.08-13.24.39:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.06.08-13.24.39:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.06.08-13.24.39:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.06.08-13.24.39:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.06.08-13.24.39:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.06.08-13.24.39:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.06.08-13.24.39:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.06.08-13.24.39:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.06.08-13.24.39:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.06.08-13.24.40:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.06.08-13.24.40:041][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.06.08-13.24.40:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.06.08-13.24.40:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.06.08-13.24.40:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.06.08-13.24.40:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.06.08-13.24.40:156][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.06.08-13.24.40:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.06.08-13.24.40:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.06.08-13.24.40:206][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.06.08-13.24.40:359][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.06.08-13.24.40:789][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.06.08-13.24.40:790][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Intermediate/Shaders/WorkingDirectory/9168/).
+[2024.06.08-13.24.40:791][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yangc/AppData/Local/Temp/UnrealShaderWorkingDir/C6A9B7F041A99AB4311F4DADCBF42BBB/'.
+[2024.06.08-13.24.40:791][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.06.08-13.24.40:791][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.06.08-13.24.49:750][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.06.08-13.24.49:965][  0]LogDerivedDataCache: Loaded boot cache 0.21s 86MB C:/Users/yangc/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.06.08-13.24.49:965][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yangc/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2024.06.08-13.24.49:966][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.06.08-13.24.49:966][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.06.08-13.24.49:966][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.06.08-13.24.49:966][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.06.08-13.24.50:026][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.06.08-13.24.50:027][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.06.08-13.24.50:027][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.06.08-13.24.50:174][  0]LogDerivedDataCache: Speed tests for C:/Users/yangc/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.15 seconds
+[2024.06.08-13.24.50:174][  0]LogDerivedDataCache: Display: Performance to C:/Users/yangc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.22ms. RandomReadSpeed=7.10MBs, RandomWriteSpeed=69.07MBs. Assigned SpeedClass 'Local'
+[2024.06.08-13.24.50:175][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yangc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.06.08-13.24.50:175][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.06.08-13.24.50:175][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.06.08-13.24.50:276][  0]LogSlate: Using FreeType 2.10.0
+[2024.06.08-13.24.50:297][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.06.08-13.24.50:360][  0]LogAssetRegistry: FAssetRegistry took 0.0076 seconds to start up
+[2024.06.08-13.24.51:333][  0]LogInit: Selected Device Profile: [Windows]
+[2024.06.08-13.24.51:333][  0]LogInit: Active device profile: [0000020D46329900][0000020D44953300 49] Windows
+[2024.06.08-13.24.51:333][  0]LogInit: Profiles: [0000020D46329900][0000020D44953300 49] Windows, [0000020D4630F900][0000020D4495B480 49] WindowsNoEditor, [0000020D4632B300][0000020D449575C0 49] WindowsServer, [0000020D4630D000][0000020D4495F700 49] WindowsClient, [0000020D46329100][0000020D44963840 49] IOS, [0000020D4630F600][0000020D44967980 49] iPadAir, [0000020D4632B200][0000020D46B17B00 49] iPadAir2, [0000020D462BA600][0000020D46B1E100 49] IPadPro, [0000020D462BA700][0000020D46B1A140 49] iPadAir3, [0000020D4632B700][0000020D46B222C0 49] iPadAir4, [0000020D462BBC00][0000020D46B26440 49] iPadMini2, [0000020D46329F00][0000020D46B2A5C0 49] iPadMini3, [0000020D462B9B00][0000020D46B2E740 49] iPadMini4, [0000020D46329D00][0000020D46B328C0 49] iPadMini5, [0000020D462C5F00][0000020D46B3AB80 49] iPhone6, [0000020D462C6000][0000020D46B36BC0 49] iPodTouch6, [0000020D4630F700][0000020D46B42E80 49] iPhone7, [0000020D4630F800][0000020D46B3EEC0 49] iPodTouch7, [0000020D462C7600][0000020D46B47040 49] iPhone5S, [0000020D4630D800][0000020D46B4B1C0 49] iPhone6Plus, [0000020D462C5900][0000020D46B4F340 49] iPhone6S, [0000020D4630FE00][0000020D46B534C0 49] iPhone6SPlus, [0000020D462C4C00][0000020D46B57640 49] iPhone7Plus, [0000020D4630E100][0000020D4496B780 49] iPhoneSE, [0000020D462C5200][0000020D46B5B8C0 49] iPhone8, [0000020D4630F400][0000020D46B5FA00 49] iPhone8Plus, [0000020D462C4A00][0000020D46B67B80 49] iPhoneX, [0000020D4630D200][0000020D46B6BD00 49] iPhoneXS, [0000020D462C6500][0000020D46B6E1C0 49] iPhoneXSMax, [0000020D4630C700][0000020D46B72340 49] iPhoneXR, [0000020D462C7000][0000020D46B764C0 49] iPhone11, [0000020D4630ED00][0000020D46B7A640 49] iPhone11Pro, [0000020D462C5800][0000020D46B7E7C0 49] iPhone11ProMax, [0000020D4630E300][0000020D46B82940 49] iPhoneSE2, [0000020D462C7C00][0000020D46B86AC0 49] iPhone12Mini, [0000020D4630E200][0000020D46B8AC40 49] iPhone12, [0000020D4632BA00][0000020D46B8EDC0 49] iPhone12Pro, [0000020D462C5700][0000020D46B92F40 49] iPhone12ProMax, [0000020D4632BC00][0000020D46B970C0 49] iPadPro105, [0000020D462C4E00][0000020D46B9B240 49] iPadPro129, [0000020D4632AD00][0000020D46B9F3C0 49] iPadPro97, [0000020D462C6C00][0000020D46BA3540 49] iPadPro2_129, [0000020D4630D700][0000020D46BA76C0 49] iPad5, [0000020D462C7800][0000020D46B63800 49] iPad6, [0000020D4630DA00][0000020D46BAB940 49] iPad7, [0000020D462C5100][0000020D46BAFA80 49] iPad8, [0000020D4630CC00][0000020D46BB7C00 49] iPadPro11, [0000020D462C4B00][0000020D46BBA0C0 49] iPadPro2_11, [0000020D4630F200][0000020D46BBE240 49] iPadPro3_129, [0000020D462C4100][0000020D46BC23C0 49] iPadPro4_129, [0000020D4630F500][0000020D46BC6540 49] AppleTV, [0000020D462C7B00][0000020D46BCA6C0 49] AppleTV4K, [0000020D4630C100][0000020D46BCE840 49] TVOS, [0000020D462C4500][0000020D46BD29C0 49] Mac, [0000020D4630F000][0000020D46BD6B40 49] MacClient, [0000020D462C7400][0000020D46BDACC0 49] MacNoEditor, [0000020D4630FD00][0000020D46BDEE40 49] MacServer, [0000020D462C5300][0000020D46BE2FC0 49] Linux, [0000020D4630EC00][0000020D46BE7140 49] LinuxAArch64, [0000020D462C6200][0000020D46BEB2C0 49] LinuxNoEditor, [0000020D4630DB00][0000020D46BEF440 49] LinuxAArch64NoEditor, [0000020D462C7300][0000020D46BF35C0 49] LinuxClient, [0000020D4630E700][0000020D46BF7740 49] LinuxAArch64Client, [0000020D462C6600][0000020D46BB3880 49] LinuxServer, [0000020D4630DF00][0000020D46BFB9C0 49] LinuxAArch64Server, [0000020D462C6D00][0000020D46BFFB00 49] Android, [0000020D4630CE00][0000020D46C03C40 49] Android_Low, [0000020D462C5600][0000020D46C0A100 49] Android_Mid, [0000020D4630E400][0000020D46C0E280 49] Android_High, [0000020D462C6700][0000020D46C12400 49] Android_Default, [0000020D4630D900][0000020D46C16580 49] Android_Adreno4xx, [0000020D462C4700][0000020D46C1A700 49] Android_Adreno5xx_Low, [0000020D4630FB00][0000020D46C1E880 49] Android_Adreno5xx, [0000020D462C4800][0000020D46C22A00 49] Android_Adreno6xx, [0000020D4630F100][0000020D46C26B80 49] Android_Adreno6xx_Vulkan, [0000020D462C6800][0000020D46C2AD00 49] Android_Mali_T6xx, [0000020D4630EA00][0000020D46C2EE80 49] Android_Mali_T7xx, [0000020D462C4D00][0000020D46C33000 49] Android_Mali_T8xx, [0000020D4630E800][0000020D46C37180 49] Android_Mali_G71, [0000020D462C4F00][0000020D46C3B300 49] Android_Mali_G72, [0000020D4630CD00][0000020D46C3F480 49] Android_Mali_G72_Vulkan, [0000020D462C6A00][0000020D46C43600 49] Android_Mali_G76, [0000020D4630D300][0000020D46C47780 49] Android_Mali_G76_Vulkan, [0000020D462C5A00][0000020D46C078C0 49] Android_Mali_G77, [0000020D462BAE00][0000020D46C4BA00 49] Android_Mali_G77_Vulkan, [0000020D4632B900][0000020D46C4FB40 49] Android_Vulkan_SM5, [0000020D462B8800][0000020D46C53C80 49] Android_PowerVR_G6xxx, [0000020D4632B400][0000020D46C5A140 49] Android_PowerVR_GT7xxx, [0000020D462B8E00][0000020D46C5E2C0 49] Android_PowerVR_GE8xxx, [0000020D46329400][0000020D46C62440 49] Android_PowerVR_GM9xxx, [0000020D462B8900][0000020D46C665C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000020D46328E00][0000020D46C6A740 49] Android_TegraK1, [0000020D462B8D00][0000020D46C6E8C0 49] Android_Unknown_Vulkan, [0000020D46328C00][0000020D46C72A40 49] Lumin, [0000020D462B9000][0000020D46C76BC0 49] Lumin_Desktop, [0000020D46329700][0000020D46C7AD40 49] HoloLens, 
+[2024.06.08-13.24.51:996][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.06.08-13.24.51:996][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.06.08-13.24.51:996][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.06.08-13.24.51:996][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.06.08-13.24.51:997][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.06.08-13.24.52:072][  0]LogNetVersion: donut 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1575341251)
+[2024.06.08-13.24.53:958][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.06.08-13.24.54:099][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.137819 seconds
+[2024.06.08-13.24.54:115][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2024.06.08-13.24.54:115][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2024.06.08-13.24.54:115][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.06.08-13.24.56:328][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.06.08-13.24.56:351][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.06.08-13.24.57:763][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Ratatouille/Idle_Anim_mixamo_com.Idle_Anim_mixamo_com
+[2024.06.08-13.24.58:172][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.06.08-13.24.58:173][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.06.08-13.24.58:199][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.06.08-13.24.58:218][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.06.08-13.24.58:269][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.06.08-13.24.58:321][  0]LogUProjectInfo: Found projects:
+[2024.06.08-13.24.59:363][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.06.08-13.24.59:468][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.06.08-13.24.59:468][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.06.08-13.24.59:748][  0]LogCollectionManager: Loaded 0 collections in 0.003738 seconds
+[2024.06.08-13.24.59:899][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Collections/' took 0.01s
+[2024.06.08-13.24.59:899][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Content/Developers/yangc/Collections/' took 0.01s
+[2024.06.08-13.24.59:900][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Content/Collections/' took 0.01s
+[2024.06.08-13.24.59:900][  0]LogOcInput: OculusInput pre-init called
+[2024.06.08-13.24.59:957][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2024.06.08-13.24.59:957][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2024.06.08-13.25.00:259][  0]LogEngine: Initializing Engine...
+[2024.06.08-13.25.00:267][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.06.08-13.25.00:268][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.06.08-13.25.00:275][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2024.06.08-13.25.00:579][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.06.08-13.25.00:664][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.06.08-13.25.00:682][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.06.08-13.25.00:701][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.06.08-13.25.00:702][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.06.08-13.25.00:703][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.08-13.25.00:703][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.08-13.25.00:704][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.08-13.25.00:704][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.08-13.25.00:704][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.08-13.25.00:704][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.08-13.25.00:704][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.08-13.25.00:704][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.08-13.25.00:709][  0]LogAudio: Display: Using built-in audio occlusion.
+[2024.06.08-13.25.00:709][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.08-13.25.00:823][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.08-13.25.00:823][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.06.08-13.25.00:999][  0]LogAudioMixer: Display: Using Audio Device 헤드셋 이어폰(Cresyn  USB C Earphones)
+[2024.06.08-13.25.01:002][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.08-13.25.01:006][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.08-13.25.01:007][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.08-13.25.01:010][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.08-13.25.01:011][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.08-13.25.01:011][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.08-13.25.01:014][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.08-13.25.01:014][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.08-13.25.01:014][  0]LogInit: FAudioDevice initialized.
+[2024.06.08-13.25.01:016][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.06.08-13.25.01:017][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.06.08-13.25.01:116][  0]LogDerivedDataCache: Saved boot cache 0.10s 86MB C:/Users/yangc/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.06.08-13.25.01:121][  0]LogInit: Texture streaming: Enabled
+[2024.06.08-13.25.01:179][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2024.06.08-13.25.01:199][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.06.08-13.25.01:199][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.06.08-13.25.01:215][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.06.08-13.25.01:307][  0]LogInit: Transaction tracking system initialized
+[2024.06.08-13.25.01:422][  0]BlueprintLog: New page: 에디터 로드
+[2024.06.08-13.25.01:827][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2024.06.08-13.25.01:960][  0]TimingProfiler: Initialize
+[2024.06.08-13.25.01:961][  0]TimingProfiler: OnSessionChanged
+[2024.06.08-13.25.01:962][  0]LoadingProfiler: Initialize
+[2024.06.08-13.25.01:962][  0]LoadingProfiler: OnSessionChanged
+[2024.06.08-13.25.01:963][  0]NetworkingProfiler: Initialize
+[2024.06.08-13.25.01:963][  0]NetworkingProfiler: OnSessionChanged
+[2024.06.08-13.25.01:963][  0]MemoryProfiler: Initialize
+[2024.06.08-13.25.01:963][  0]MemoryProfiler: OnSessionChanged
+[2024.06.08-13.25.02:503][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.06.08-13.25.02:504][  0]LogCook: Display: Mobile HDR setting 1
+[2024.06.08-13.25.03:215][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Content/' took 0.11s
+[2024.06.08-13.25.03:703][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.06.08-13.25.03:721][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2024.06.08-13.25.03:722][  0]LogUnrealEdMisc: Loading editor; pre map load, took 39.808
+[2024.06.08-13.25.03:725][  0]Cmd: MAP LOAD FILE="../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.08-13.25.03:739][  0]LightingResults: New page: 라이팅 빌드
+[2024.06.08-13.25.03:750][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.25.03:752][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.25.03:756][  0]MapCheck: New page: 맵 체크
+[2024.06.08-13.25.03:756][  0]LightingResults: New page: 라이팅 빌드
+[2024.06.08-13.25.04:064][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: T_Spark_B (AutoDXT, 64X64)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: T_Flare_A (AutoDXT, 128X128)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: ThumbnailTexture (DXT1, 512X512)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: howto_img (BGRA8, 1323X579)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: ThumbnailTexture (DXT1, 512X512)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: ThumbnailTexture (DXT1, 512X512)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: ThumbnailTexture (DXT1, 512X512)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: T_Noise_DistortedCaustic (AutoDXT, 512X512)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: T_NoiseCloud_1 (AutoDXT, 1024X1024)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: T_NoiseCloud_2 (AutoDXT, 1024X1024)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: T_Ray_5 (AutoDXT, 2048X2048)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: T_Beam_01 (AutoDXT, 2048X2048)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: T_NoiseFurry (AutoDXT, 2048X2048)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: T_Food_Bread_Dount_01_M (AutoDXT, 2048X2048)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: T_Food_Bread_Dount_01_D (AutoDXT, 2048X2048)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: T_Food_Bread_Dount_01_N (BC5, 2048X2048)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_5 (G8, 32X32)
+[2024.06.08-13.25.09:092][  0]LogTexture: Display: 텍스처 빌드: NewReflectionComponentTextureC1D63E1744C966CDAE311FBF362794EC (BGRA8, 128X128)
+[2024.06.08-13.25.09:092][  0]LogMaterial: Display: Missing cached shader map for material M_sA_Aura, compiling. 
+[2024.06.08-13.25.09:180][  0]LogMaterial: Display: Missing cached shader map for material M_sA_Aura, compiling. 
+[2024.06.08-13.25.09:218][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 40
+[2024.06.08-13.25.09:218][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2024.06.08-13.25.09:218][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2024.06.08-13.25.09:218][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2024.06.08-13.25.09:218][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2024.06.08-13.25.09:218][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2024.06.08-13.25.09:218][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2024.06.08-13.25.09:218][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2024.06.08-13.25.09:218][  0]LogMaterial: Display: Missing cached shader map for material M_Glow_C, compiling. 
+[2024.06.08-13.25.09:256][  0]LogStaticMesh: SM_Pickup_Magic 스태틱 메시 빌드중...
+[2024.06.08-13.25.09:289][  0]LogStaticMesh: Built static mesh [0.03s] /Game/sA_PickupSet_1/Models/SM_Pickup_Magic.SM_Pickup_Magic
+[2024.06.08-13.25.09:384][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 72
+[2024.06.08-13.25.09:384][  0]LogStaticMesh: SM_Pickup_ss 스태틱 메시 빌드중...
+[2024.06.08-13.25.09:393][  0]LogStaticMesh: Built static mesh [0.01s] /Game/sA_PickupSet_1/Models/SM_Pickup_ss.SM_Pickup_ss
+[2024.06.08-13.25.09:435][  0]LogStaticMesh: SM_Pickup_Health 스태틱 메시 빌드중...
+[2024.06.08-13.25.09:595][  0]LogStaticMesh: Built static mesh [0.16s] /Game/sA_PickupSet_1/Models/SM_Pickup_Health.SM_Pickup_Health
+[2024.06.08-13.25.09:663][  0]LogStaticMesh: Food_Bread_Dount_01 스태틱 메시 빌드중...
+[2024.06.08-13.25.09:693][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Food_Pack_01/Meshes/Food_Bread_Dount_01.Food_Bread_Dount_01
+[2024.06.08-13.25.09:711][  0]LogStaticMesh: SM_Pickup_Defence_2 스태틱 메시 빌드중...
+[2024.06.08-13.25.09:756][  0]LogStaticMesh: Built static mesh [0.05s] /Game/sA_PickupSet_1/Models/SM_Pickup_Defence_2.SM_Pickup_Defence_2
+[2024.06.08-13.25.09:788][  0]LogStaticMesh: SM_Pickup_Gem 스태틱 메시 빌드중...
+[2024.06.08-13.25.09:791][  0]LogStaticMesh: Built static mesh [0.00s] /Game/sA_PickupSet_1/Models/SM_Pickup_Gem.SM_Pickup_Gem
+[2024.06.08-13.25.11:274][  0]LogMaterial: Display: Missing cached shader map for material MM_Food_Bread_Dount_01, compiling. 
+[2024.06.08-13.25.11:461][  0]LogMaterial: Display: Missing cached shader map for material M_AdditiveScrollNiagara, compiling. 
+[2024.06.08-13.25.11:510][  0]LogMaterial: Display: Missing cached shader map for material M_Master_Fresnel, compiling. 
+[2024.06.08-13.25.11:565][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2024.06.08-13.25.11:567][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.06.08-13.25.11:653][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.08-13.25.11:699][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2024.06.08-13.25.11:712][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.08-13.25.11:713][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.538ms.
+[2024.06.08-13.25.11:713][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 7.991
+[2024.06.08-13.25.11:765][  0]LogUnrealEdMisc: Total Editor Startup Time, took 47.851
+[2024.06.08-13.25.12:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.08-13.25.12:150][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.08-13.25.12:172][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.08-13.25.12:191][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.08-13.25.12:291][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0245 seconds. Added 3603 classes and 861 folders.
+[2024.06.08-13.25.12:306][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2024.06.08-13.25.12:342][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.06.08-13.25.12:342][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.06.08-13.25.12:342][  0]LogPakFile: OnPakFileMounted2Time == 0.000269
+[2024.06.08-13.25.12:374][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.06.08-13.25.12:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.06.08-13.25.12:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000276
+[2024.06.08-13.25.12:399][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.06.08-13.25.12:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.06.08-13.25.12:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000299
+[2024.06.08-13.25.12:426][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.06.08-13.25.12:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:427][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.06.08-13.25.12:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000320
+[2024.06.08-13.25.12:456][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.06.08-13.25.12:456][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.06.08-13.25.12:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000351
+[2024.06.08-13.25.12:488][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.06.08-13.25.12:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.06.08-13.25.12:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000370
+[2024.06.08-13.25.12:519][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.06.08-13.25.12:519][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:519][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.06.08-13.25.12:520][  0]LogPakFile: OnPakFileMounted2Time == 0.000397
+[2024.06.08-13.25.12:558][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.06.08-13.25.12:558][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:558][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.06.08-13.25.12:558][  0]LogPakFile: OnPakFileMounted2Time == 0.000415
+[2024.06.08-13.25.12:606][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.06.08-13.25.12:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.06.08-13.25.12:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000432
+[2024.06.08-13.25.12:633][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.06.08-13.25.12:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.06.08-13.25.12:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000440
+[2024.06.08-13.25.12:655][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.06.08-13.25.12:655][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:655][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.06.08-13.25.12:655][  0]LogPakFile: OnPakFileMounted2Time == 0.000449
+[2024.06.08-13.25.12:673][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.06.08-13.25.12:674][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:674][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.06.08-13.25.12:674][  0]LogPakFile: OnPakFileMounted2Time == 0.000456
+[2024.06.08-13.25.12:692][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.06.08-13.25.12:692][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.06.08-13.25.12:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000462
+[2024.06.08-13.25.12:712][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.06.08-13.25.12:712][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:712][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.06.08-13.25.12:712][  0]LogPakFile: OnPakFileMounted2Time == 0.000472
+[2024.06.08-13.25.12:731][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.06.08-13.25.12:731][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:731][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.06.08-13.25.12:731][  0]LogPakFile: OnPakFileMounted2Time == 0.000478
+[2024.06.08-13.25.12:750][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.06.08-13.25.12:750][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:750][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.06.08-13.25.12:751][  0]LogPakFile: OnPakFileMounted2Time == 0.000494
+[2024.06.08-13.25.12:771][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.06.08-13.25.12:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.06.08-13.25.12:771][  0]LogPakFile: OnPakFileMounted2Time == 0.000500
+[2024.06.08-13.25.12:794][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.06.08-13.25.12:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.06.08-13.25.12:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000511
+[2024.06.08-13.25.12:811][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.06.08-13.25.12:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.06.08-13.25.12:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000610
+[2024.06.08-13.25.12:836][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.06.08-13.25.12:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.06.08-13.25.12:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000616
+[2024.06.08-13.25.12:854][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.06.08-13.25.12:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.06.08-13.25.12:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000631
+[2024.06.08-13.25.12:871][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.06.08-13.25.12:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.06.08-13.25.12:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000638
+[2024.06.08-13.25.12:891][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.06.08-13.25.12:891][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:891][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.06.08-13.25.12:892][  0]LogPakFile: OnPakFileMounted2Time == 0.000648
+[2024.06.08-13.25.12:910][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.06.08-13.25.12:910][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:910][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.06.08-13.25.12:910][  0]LogPakFile: OnPakFileMounted2Time == 0.000655
+[2024.06.08-13.25.12:928][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.06.08-13.25.12:928][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:928][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.06.08-13.25.12:928][  0]LogPakFile: OnPakFileMounted2Time == 0.000662
+[2024.06.08-13.25.12:945][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.06.08-13.25.12:945][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.06.08-13.25.12:945][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.06.08-13.25.12:945][  0]LogPakFile: OnPakFileMounted2Time == 0.000670
+[2024.06.08-13.25.13:399][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2024.06.08-13.25.13:407][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 2 classes and 0 folders.
+[2024.06.08-13.25.13:717][  0]LogSlate: Took 0.021420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.06.08-13.25.13:756][  0]LogSlate: Took 0.033365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2024.06.08-13.25.13:795][  0]LogSlate: Took 0.036823 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2024.06.08-13.25.13:818][  0]LogSlate: Took 0.022349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.06.08-13.25.13:860][  0]LogSlate: Took 0.027647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.06.08-13.25.14:443][  0]LogRenderer: Reallocating scene render targets to support 964x432 Format 10 NumSamples 1 (Frame:1).
+[2024.06.08-13.25.14:564][  0]LogSlate: Took 0.011914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.08-13.25.14:754][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2024.06.08-13.25.14:754][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2024.06.08-13.25.14:754][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2024.06.08-13.25.14:754][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2024.06.08-13.25.14:754][  0]LogLoad: (Engine Initialization) Total time: 50.84 seconds
+[2024.06.08-13.25.14:754][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.06.08-13.25.14:754][  0]LogInit: First time updating LLM stats...
+[2024.06.08-13.25.14:877][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.06.08-13.25.15:583][  5]LogAssetRegistry: Asset discovery search completed in 25.2242 seconds
+[2024.06.08-13.25.15:589][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2024.06.08-13.25.15:784][  8]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 169
+[2024.06.08-13.25.16:302][ 14]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 159
+[2024.06.08-13.25.16:777][ 25]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 149
+[2024.06.08-13.25.16:777][ 25]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 139
+[2024.06.08-13.25.16:866][ 28]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 129
+[2024.06.08-13.25.18:268][ 67]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 119
+[2024.06.08-13.25.18:607][ 80]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 109
+[2024.06.08-13.25.19:077][ 99]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 99
+[2024.06.08-13.25.19:973][129]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Content/' took 5.16s
+[2024.06.08-13.25.26:672][377]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 89
+[2024.06.08-13.25.27:280][400]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 79
+[2024.06.08-13.25.28:583][451]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 69
+[2024.06.08-13.25.29:736][496]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 60
+[2024.06.08-13.25.30:208][514]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 52
+[2024.06.08-13.25.30:958][542]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 45
+[2024.06.08-13.25.31:320][553]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2024.06.08-13.25.31:557][562]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 34
+[2024.06.08-13.25.36:494][744]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2024.06.08-13.25.39:081][848]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2024.06.08-13.25.39:686][872]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2024.06.08-13.25.40:641][905]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2024.06.08-13.25.40:641][905]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2024.06.08-13.25.40:641][905]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2024.06.08-13.25.40:738][909]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2024.06.08-13.25.43:186][ 16]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2024.06.08-13.25.43:221][ 17]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2024.06.08-13.25.45:251][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2024.06.08-13.25.45:251][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2024.06.08-13.25.45:357][117]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2024.06.08-13.25.45:479][123]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2024.06.08-13.25.45:772][138]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2024.06.08-13.25.50:622][382]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2024.06.08-13.25.50:642][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.08-13.25.50:643][382]PIE: New page: PIE 세션: ThirdPersonExampleMap (2024. 6. 9. 오전 7:25:50)
+[2024.06.08-13.25.50:649][382]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.06.08-13.25.50:651][382]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.06.08-13.25.50:652][382]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.06.08-13.25.50:675][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022698s)
+[2024.06.08-13.25.50:677][382]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.06.08-13.25.50:678][382]LogPlayLevel: PIE: World Init took: (0.002654s)
+[2024.06.08-13.25.50:679][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026435s)
+[2024.06.08-13.25.50:690][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.06.08-13.25.50:693][382]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.06.08-13.25.50:693][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.08-13.25.50:694][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.08-13.25.50:694][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.08-13.25.50:694][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.08-13.25.50:694][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.08-13.25.50:694][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.08-13.25.50:694][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.08-13.25.50:694][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.08-13.25.50:695][382]LogAudio: Display: Using built-in audio occlusion.
+[2024.06.08-13.25.50:695][382]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.08-13.25.50:726][382]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.08-13.25.50:726][382]LogAudioMixer: Display: 1: FrontRight
+[2024.06.08-13.25.50:761][382]LogAudioMixer: Display: Using Audio Device 헤드셋 이어폰(Cresyn  USB C Earphones)
+[2024.06.08-13.25.50:762][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.08-13.25.50:762][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.08-13.25.50:762][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.08-13.25.50:763][382]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.08-13.25.50:763][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.08-13.25.50:763][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.08-13.25.50:795][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.08-13.25.50:795][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.08-13.25.50:795][382]LogInit: FAudioDevice initialized.
+[2024.06.08-13.25.50:795][382]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2024.06.08-13.25.50:837][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.08-13.25.50:839][382]LogLoad: Game class is 'donutGameMode'
+[2024.06.08-13.25.50:854][382]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2024.06.08-22.25.50
+[2024.06.08-13.25.50:856][382]LogWorld: Bringing up level for play took: 0.009439
+[2024.06.08-13.25.50:857][382]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2024.06.08-13.25.50:888][382]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2024.06.08-13.25.50:901][382]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2024.06.08-13.25.50:901][382]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.06.08-13.25.50:935][382]PIE: 서버가 로그인했습니다.
+[2024.06.08-13.25.50:940][382]PIE: 에디터에서 플레이 총 시작 시간 0.307초입니다.
+[2024.06.08-13.25.51:070][383]LogRenderer: Reallocating scene render targets to support 1528x780 Format 10 NumSamples 1 (Frame:1).
+[2024.06.08-13.26.27:208][458]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2024.06.08-13.26.27:209][458]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.06.08-13.26.27:212][458]LogNet: Browse: /Game/Maps/Stage1
+[2024.06.08-13.26.27:212][458]LogLoad: LoadMap: /Game/Maps/Stage1
+[2024.06.08-13.26.27:212][458]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2024.06.08-13.26.27:215][458]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.26.27:224][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.26.27:264][458]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.08-13.26.27:270][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.06.08-13.26.47:020][458]LogTexture: Display: 텍스처 빌드: Ch01_1001_Specular (AutoDXT, 4096X4096)
+[2024.06.08-13.26.47:020][458]LogTexture: Display: 텍스처 빌드: Ch01_1001_Glossiness (AutoDXT, 4096X4096)
+[2024.06.08-13.26.47:020][458]LogTexture: Display: 텍스처 빌드: Ch01_1001_Diffuse (AutoDXT, 4096X4096)
+[2024.06.08-13.26.47:020][458]LogTexture: Display: 텍스처 빌드: Ch01_1001_Normal (BC5, 4096X4096)
+[2024.06.08-13.26.47:020][458]LogTexture: Display: 텍스처 빌드: Ch01_1001_Normal_ncl1_1 (BC5, 4096X4096)
+[2024.06.08-13.26.47:020][458]LogTexture: Display: 텍스처 빌드: Ch01_1001_Diffuse_ncl1_1 (AutoDXT, 4096X4096)
+[2024.06.08-13.26.47:020][458]LogMaterial: Display: Missing cached shader map for material Ch01_hair, compiling. 
+[2024.06.08-13.26.49:064][458]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 56
+[2024.06.08-13.26.49:064][458]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 48
+[2024.06.08-13.26.49:064][458]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 40
+[2024.06.08-13.26.49:064][458]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2024.06.08-13.26.49:064][458]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2024.06.08-13.26.49:064][458]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2024.06.08-13.26.49:064][458]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2024.06.08-13.26.49:064][458]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Ratatouille/Running_Anim_mixamo_com.Running_Anim_mixamo_com
+[2024.06.08-13.26.49:064][458]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Ratatouille/Jump2_Anim_mixamo_com.Jump2_Anim_mixamo_com
+[2024.06.08-13.26.49:108][458]LogMaterial: Display: Missing cached shader map for material Ch01_body, compiling. 
+[2024.06.08-13.26.49:141][458]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2024.06.08-13.26.49:141][458]LogSkeletalMesh: Building Skeletal Mesh Idle...
+[2024.06.08-13.26.53:112][458]LogSkeletalMesh: Section 0: Material=0, 41980 triangles
+[2024.06.08-13.26.53:112][458]LogSkeletalMesh: Section 1: Material=1, 832 triangles
+[2024.06.08-13.26.53:341][458]LogSkeletalMesh: Built Skeletal Mesh [4.20s] /Game/Ratatouille/Idle.Idle
+[2024.06.08-13.26.53:383][458]LogAudio: Display: Audio Device (ID: 2) registered with world 'Stage1'.
+[2024.06.08-13.26.53:385][458]LogAIModule: Creating AISystem for world Stage1
+[2024.06.08-13.26.53:385][458]LogLoad: Game class is 'donutGameMode'
+[2024.06.08-13.26.53:401][458]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 60) at 2024.06.08-22.26.53
+[2024.06.08-13.26.53:416][458]LogWorld: Bringing up level for play took: 0.029290
+[2024.06.08-13.26.53:428][458]LogLoad: Took 26.215771 seconds to LoadMap(/Game/Maps/Stage1)
+[2024.06.08-13.26.53:852][460]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2024.06.08-13.26.53:858][460]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2024.06.08-13.26.56:929][560]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2024.06.08-13.26.57:396][582]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2024.06.08-13.26.57:862][601]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2024.06.08-13.26.58:298][618]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2024.06.08-13.26.58:660][632]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2024.06.08-13.26.58:912][643]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2024.06.08-13.26.59:635][678]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2024.06.08-13.26.59:635][678]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2024.06.08-13.27.00:617][727]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2024.06.08-13.27.00:817][736]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2024.06.08-13.27.28:207][290]LogBlueprintUserMessages: [PP_AddForce_8] icecream
+[2024.06.08-13.27.32:558][539]LogBlueprintUserMessages: [PP_AddForce_8] 1
+[2024.06.08-13.27.45:473][276]LogBlueprintUserMessages: [PP_AddForce_8] 110
+[2024.06.08-13.28.43:065][653]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:082][654]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:099][655]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:116][656]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:136][657]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:151][658]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:173][659]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:186][660]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:204][661]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:220][662]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:234][663]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:251][664]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:267][665]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:287][666]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:303][667]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:318][668]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:336][669]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:352][670]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:367][671]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:386][672]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:403][673]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:421][674]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:437][675]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:454][676]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:470][677]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:487][678]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:506][679]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:526][680]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:541][681]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:557][682]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:573][683]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:590][684]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:608][685]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:623][686]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:641][687]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:657][688]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:674][689]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:692][690]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:711][691]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:728][692]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:747][693]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:762][694]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:779][695]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:797][696]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:815][697]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:831][698]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:855][699]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:869][700]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:891][701]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:908][702]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:921][703]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:939][704]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:958][705]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:976][706]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.43:992][707]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:009][708]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:025][709]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:042][710]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:059][711]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:075][712]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:091][713]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:108][714]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:124][715]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:141][716]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:158][717]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:175][718]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:191][719]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:208][720]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:224][721]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:241][722]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:259][723]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:275][724]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:291][725]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:308][726]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:325][727]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:342][728]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:358][729]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:376][730]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:394][731]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:413][732]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:437][733]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:457][734]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:469][735]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:490][736]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:507][737]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:525][738]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:544][739]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:565][740]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:592][741]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:612][742]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:630][743]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:651][744]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:669][745]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:682][746]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:701][747]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:719][748]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:737][749]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:755][750]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:773][751]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:788][752]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:807][753]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:825][754]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:845][755]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:862][756]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:879][757]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:895][758]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:913][759]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:929][760]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:945][761]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:966][762]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.44:991][763]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:007][764]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:026][765]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:046][766]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:063][767]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:082][768]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:097][769]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:114][770]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:130][771]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:146][772]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:164][773]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:179][774]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:196][775]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:216][776]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:230][777]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:247][778]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:266][779]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:280][780]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:298][781]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:315][782]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:331][783]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:347][784]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:366][785]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:385][786]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:404][787]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:419][788]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:436][789]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:452][790]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:470][791]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:488][792]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:504][793]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:522][794]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:541][795]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:557][796]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:574][797]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:591][798]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:607][799]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:623][800]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:639][801]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:656][802]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:674][803]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:690][804]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:707][805]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:724][806]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:740][807]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:757][808]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:774][809]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:791][810]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:806][811]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:824][812]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:840][813]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:857][814]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:874][815]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:890][816]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:907][817]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:924][818]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:940][819]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:958][820]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:973][821]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.45:990][822]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:007][823]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:024][824]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:041][825]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:057][826]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:076][827]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:092][828]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:109][829]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:125][830]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:141][831]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:158][832]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:175][833]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:191][834]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:209][835]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:225][836]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:241][837]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:258][838]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:274][839]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:291][840]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:307][841]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:324][842]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:342][843]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:358][844]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:375][845]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:392][846]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:408][847]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:425][848]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:440][849]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:457][850]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:474][851]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:491][852]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:508][853]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:524][854]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:541][855]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:558][856]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:576][857]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:595][858]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:611][859]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:629][860]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:647][861]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:664][862]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:682][863]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:705][864]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:721][865]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:736][866]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:759][867]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:776][868]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:793][869]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:808][870]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:826][871]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:842][872]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:858][873]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:877][874]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:893][875]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:908][876]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:926][877]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:944][878]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:960][879]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:976][880]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.46:994][881]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:011][882]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:028][883]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:048][884]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:064][885]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:080][886]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:099][887]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:121][888]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:133][889]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:152][890]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:172][891]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:190][892]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:204][893]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:226][894]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:242][895]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:259][896]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:276][897]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:292][898]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:308][899]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:327][900]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:343][901]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:361][902]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:379][903]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:397][904]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:414][905]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:430][906]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:447][907]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:464][908]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:485][909]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.08-13.28.47:587][909]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.08-13.28.47:587][909]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage1
+[2024.06.08-13.28.47:588][909]LogSlate: Window 'donut 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2024.06.08-13.28.47:598][909]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.28.47:599][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.28.47:618][909]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.08-13.28.47:623][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.28.47:636][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.08-13.28.47:640][909]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.08-13.28.47:713][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.06.08-13.28.47:748][910]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.06.08-13.31.13:798][  8]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.06.08-13.31.13:817][  8]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/main/mainHUD.mainHUD
+[2024.06.08-13.31.13:952][  8]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 126 classes and 0 folders.
+[2024.06.08-13.31.15:935][  8]LogSlate: Took 0.008161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.06.08-13.31.21:917][339]LogEditorTransaction: Undo 드래그 앤 드롭 위젯
+[2024.06.08-13.32.46:291][ 57]BlueprintLog: New page: mainHUD 컴파일
+[2024.06.08-13.32.46:365][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2024.06.08-13.32.46:904][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main/mainHUD" FILE="../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Content/main/mainHUD.uasset" SILENT=true
+[2024.06.08-13.32.46:944][ 78]LogSavePackage: Moving '../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/mainHUD727F6263421819ECF93C6AB9DCD21009.tmp' to '../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Content/main/mainHUD.uasset'
+[2024.06.08-13.32.46:970][ 78]AssetCheck: New page: 애셋 저장: mainHUD
+[2024.06.08-13.32.46:970][ 78]LogContentValidation: Display: WidgetBlueprint /Game/main/mainHUD.mainHUD 유효성 검사
+[2024.06.08-13.32.48:976][194]LogSlate: Window 'mainHUD' being destroyed
+[2024.06.08-13.32.48:983][194]LogSlate: Window 'mainHUD' being destroyed
+[2024.06.08-13.32.48:991][194]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.32.48:991][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.32.49:003][194]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.32.49:003][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.32.51:032][309]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/main/menuHUD.menuHUD
+[2024.06.08-13.32.54:696][491]LogSlate: Window 'menuHUD' being destroyed
+[2024.06.08-13.32.54:702][491]LogSlate: Window 'menuHUD' being destroyed
+[2024.06.08-13.32.54:705][491]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.32.54:705][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.32.54:719][491]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.32.54:719][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.33.02:049][921]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/main/menuHUD.menuHUD
+[2024.06.08-13.33.10:876][417]LogSlate: Window 'menuHUD' being destroyed
+[2024.06.08-13.33.10:881][417]LogSlate: Window 'menuHUD' being destroyed
+[2024.06.08-13.33.10:884][417]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.33.10:884][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.33.10:897][417]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.33.10:897][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.33.11:808][467]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/main/mainHUD.mainHUD
+[2024.06.08-13.33.13:885][559]LogSlate: Window 'mainHUD' being destroyed
+[2024.06.08-13.33.13:891][559]LogSlate: Window 'mainHUD' being destroyed
+[2024.06.08-13.33.13:894][559]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.33.13:895][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.33.13:906][559]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.33.13:907][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.33.14:612][596]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/main/menuHUD.menuHUD
+[2024.06.08-13.38.16:807][374]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\yangc\OneDrive\바탕 화면\상명대\3학년_1학기\게임소프트웨어개발2\팀플\Blur.png)
+[2024.06.08-13.38.16:845][374]LogTexture: Display: 텍스처 빌드: Blur (AutoDXT, 1920X1080)
+[2024.06.08-13.38.23:547][518]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2024.06.08-13.38.24:946][518]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.08-13.38.25:088][518]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2024.06.08-13.38.45:970][663]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\yangc\OneDrive\바탕 화면\상명대\3학년_1학기\게임소프트웨어개발2\팀플\Blur_img.png)
+[2024.06.08-13.38.46:006][663]LogTexture: Display: 텍스처 빌드: Blur_img (AutoDXT, 1920X1080)
+[2024.06.08-13.38.49:665][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2024.06.08-13.38.49:668][745]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap' took 0.030
+[2024.06.08-13.38.49:668][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/main/Blur_img] ([1] browsable assets)...
+[2024.06.08-13.38.49:676][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/main/Blur_img.Blur_img]
+[2024.06.08-13.38.49:676][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/main/Blur_img]
+[2024.06.08-13.38.49:676][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main/Blur_img" FILE="../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Autosaves/Game/main/Blur_img_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.06.08-13.38.49:682][745]LogSavePackage: Moving '../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Blur_img_Auto1698470EE420C4356C3260CA2046F7538.tmp' to '../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/Autosaves/Game/main/Blur_img_Auto1.uasset'
+[2024.06.08-13.38.49:683][745]LogFileHelpers: Auto-saving content packages took 0.015
+[2024.06.08-13.40.51:634][341]LogSlate: Window '위젯 삭제' being destroyed
+[2024.06.08-13.41.43:386][372]LogSlate: Window '위젯 삭제' being destroyed
+[2024.06.08-13.41.48:484][591]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2024.06.08-13.41.49:038][613]LogEditorTransaction: Undo 드래그 앤 드롭 위젯
+[2024.06.08-13.41.49:500][640]LogEditorTransaction: Undo 위젯 제거
+[2024.06.08-13.43.45:452][221]BlueprintLog: New page: menuHUD 컴파일
+[2024.06.08-13.43.45:494][221]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2024.06.08-13.43.45:908][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/main/menuHUD" FILE="../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Content/main/menuHUD.uasset" SILENT=true
+[2024.06.08-13.43.45:938][239]LogSavePackage: Moving '../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Saved/menuHUDA75BE53D4449326365976FA45CFA2BE4.tmp' to '../../../../../../Users/yangc/OneDrive/바탕 화면/겜소개/GameDev2/donut/Content/main/menuHUD.uasset'
+[2024.06.08-13.43.45:957][239]AssetCheck: New page: 애셋 저장: menuHUD
+[2024.06.08-13.43.45:957][239]LogContentValidation: Display: WidgetBlueprint /Game/main/menuHUD.menuHUD 유효성 검사
+[2024.06.08-13.43.48:298][365]LogSlate: Window 'menuHUD' being destroyed
+[2024.06.08-13.43.48:306][365]LogSlate: Window 'menuHUD' being destroyed
+[2024.06.08-13.43.48:310][365]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.43.48:310][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.43.48:319][365]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-13.43.48:320][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-13.43.53:854][517]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\yangc\OneDrive\바탕 화면\상명대\3학년_1학기\게임소프트웨어개발2\팀플\continue.png)
+[2024.06.08-13.43.53:882][517]LogTexture: Display: 텍스처 빌드: continue (BGRA8, 2000X579)
+[2024.06.08-13.44.32:114][993]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/main/menuHUD.menuHUD
+[2024.06.08-13.45.35:482][ 92]LogEditorTransaction: Undo 앵커 이동
+[2024.06.08-13.47.35:624][404]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2024.06.08-13.47.36:749][404]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.125 s
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: === Handled ensure: ===
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: 
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: Ensure condition failed: ScopedTransaction != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UMGEditor/Private/Extensions/DesignerExtension.cpp] [Line: 60]
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: 
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: Stack: 
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: [Callstack] 0x00007ff8c0cea268 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: [Callstack] 0x00007ff8c0be05e4 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: [Callstack] 0x00007ff8c0b2ac1f UE4Editor-UMGEditor.dll!UnknownFunction []
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: [Callstack] 0x00007ff8c0b07c66 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: [Callstack] 0x00007ff8ed5531de UE4Editor-SlateCore.dll!UnknownFunction []
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: [Callstack] 0x00007ff8f20b41ff UE4Editor-Slate.dll!UnknownFunction []
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: [Callstack] 0x00007ff8f2093a21 UE4Editor-Slate.dll!UnknownFunction []
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: [Callstack] 0x00007ff8f2118170 UE4Editor-Slate.dll!UnknownFunction []
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: [Callstack] 0x00007ff8f2100337 UE4Editor-Slate.dll!UnknownFunction []
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: [Callstack] 0x00007ff8f20f3632 UE4Editor-Slate.dll!UnknownFunction []
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: [Callstack] 0x00007ff93141bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.06.08-13.47.36:749][404]LogOutputDevice: Error: [Callstack] 0x00007ff931409197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: [Callstack] 0x00007ff93141e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: [Callstack] 0x00007ff931404310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: [Callstack] 0x00007ff991dfef75 USER32.dll!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: [Callstack] 0x00007ff991dfe69d USER32.dll!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: [Callstack] 0x00007ff93141f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: [Callstack] 0x00007ff60a8a8848 UE4Editor.exe!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: [Callstack] 0x00007ff60a8c117c UE4Editor.exe!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: [Callstack] 0x00007ff60a8c125a UE4Editor.exe!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: [Callstack] 0x00007ff60a8d52bd UE4Editor.exe!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: [Callstack] 0x00007ff60a8d7fea UE4Editor.exe!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: [Callstack] 0x00007ff9937c7344 KERNEL32.DLL!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: [Callstack] 0x00007ff993b826b1 ntdll.dll!UnknownFunction []
+[2024.06.08-13.47.36:750][404]LogOutputDevice: Error: 

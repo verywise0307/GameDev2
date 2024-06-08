@@ -49,6 +49,10 @@ void EmptyLinkFunctionForGeneratedCodedonutCharacter() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_BaseLookUpRate_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_BaseLookUpRate;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_purity_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_purity;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -104,11 +108,21 @@ void EmptyLinkFunctionForGeneratedCodedonutCharacter() {}
 	};
 #endif
 	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AdonutCharacter_Statics::NewProp_BaseLookUpRate = { "BaseLookUpRate", nullptr, (EPropertyFlags)0x0010000000020015, UE4CodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AdonutCharacter, BaseLookUpRate), METADATA_PARAMS(Z_Construct_UClass_AdonutCharacter_Statics::NewProp_BaseLookUpRate_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AdonutCharacter_Statics::NewProp_BaseLookUpRate_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AdonutCharacter_Statics::NewProp_purity_MetaData[] = {
+		{ "Category", "My Variables" },
+		{ "Comment", "// Example of a variable exposed to Blueprints\n" },
+		{ "ModuleRelativePath", "donutCharacter.h" },
+		{ "ToolTip", "Example of a variable exposed to Blueprints" },
+	};
+#endif
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_AdonutCharacter_Statics::NewProp_purity = { "purity", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(AdonutCharacter, purity), METADATA_PARAMS(Z_Construct_UClass_AdonutCharacter_Statics::NewProp_purity_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_AdonutCharacter_Statics::NewProp_purity_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AdonutCharacter_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AdonutCharacter_Statics::NewProp_CameraBoom,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AdonutCharacter_Statics::NewProp_FollowCamera,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AdonutCharacter_Statics::NewProp_BaseTurnRate,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AdonutCharacter_Statics::NewProp_BaseLookUpRate,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AdonutCharacter_Statics::NewProp_purity,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AdonutCharacter_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AdonutCharacter>::IsAbstract,
@@ -137,7 +151,7 @@ void EmptyLinkFunctionForGeneratedCodedonutCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AdonutCharacter, 507748335);
+	IMPLEMENT_CLASS(AdonutCharacter, 4181691661);
 	template<> DONUT_API UClass* StaticClass<AdonutCharacter>()
 	{
 		return AdonutCharacter::StaticClass();
