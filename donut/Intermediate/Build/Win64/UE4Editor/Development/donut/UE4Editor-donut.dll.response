@@ -1,4 +1,5 @@
-/MANIFEST:NO
+/MANIFEST:EMBED
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.26\Engine\Build\Windows\Resources\Default-Win64.manifest"
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -17,10 +18,10 @@
 /ignore:4099
 /DELAYLOAD:"d3d12.dll"
 /DELAYLOAD:"DBGHELP.DLL"
-/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\lib\x64"
+/LIBPATH:"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x64"
 /LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\lib\um\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\ucrt\x64"
-/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22621.0\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64"
 /NODEFAULTLIB:"LIBCMT"
 /NODEFAULTLIB:"LIBCPMT"
 /NODEFAULTLIB:"LIBCMTD"
@@ -32,14 +33,19 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"C:\Users\yangc\OneDrive\바탕 화면\겜소개\GameDev2\donut\Intermediate\Build\Win64\donutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\yangc\OneDrive\바탕 화면\겜소개\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\donut.cpp.obj"
-"C:\Users\yangc\OneDrive\바탕 화면\겜소개\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\donutCharacter.cpp.obj"
-"C:\Users\yangc\OneDrive\바탕 화면\겜소개\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\donutGameMode.cpp.obj"
-"C:\Users\yangc\OneDrive\바탕 화면\겜소개\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\donut.init.gen.cpp.obj"
-"C:\Users\yangc\OneDrive\바탕 화면\겜소개\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\donutCharacter.gen.cpp.obj"
-"C:\Users\yangc\OneDrive\바탕 화면\겜소개\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\donutGameMode.gen.cpp.obj"
-"C:\Users\yangc\OneDrive\바탕 화면\겜소개\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\Default.rc2.res"
+"C:\Users\yena\Desktop\상명대\게임소프트웨어개발2\GameDev2\donut\Intermediate\Build\Win64\donutEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\yena\Desktop\상명대\게임소프트웨어개발2\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\donut.cpp.obj"
+"C:\Users\yena\Desktop\상명대\게임소프트웨어개발2\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\donutCharacter.cpp.obj"
+"C:\Users\yena\Desktop\상명대\게임소프트웨어개발2\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\donutGameMode.cpp.obj"
+"C:\Users\yena\Desktop\상명대\게임소프트웨어개발2\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\donut.init.gen.cpp.obj"
+"C:\Users\yena\Desktop\상명대\게임소프트웨어개발2\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\donutCharacter.gen.cpp.obj"
+"C:\Users\yena\Desktop\상명대\게임소프트웨어개발2\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\donutGameMode.gen.cpp.obj"
+"C:\Users\yena\Desktop\상명대\게임소프트웨어개발2\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\Default.rc2.res"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\HeadMountedDisplay\UE4Editor-HeadMountedDisplay.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -64,13 +70,8 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
-"C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\HeadMountedDisplay\UE4Editor-HeadMountedDisplay.lib"
-/OUT:"C:\Users\yangc\OneDrive\바탕 화면\겜소개\GameDev2\donut\Binaries\Win64\UE4Editor-donut.dll"
-/IMPLIB:"C:\Users\yangc\OneDrive\바탕 화면\겜소개\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\UE4Editor-donut.suppressed.lib"
-/PDB:"C:\Users\yangc\OneDrive\바탕 화면\겜소개\GameDev2\donut\Binaries\Win64\UE4Editor-donut.pdb"
+/OUT:"C:\Users\yena\Desktop\상명대\게임소프트웨어개발2\GameDev2\donut\Binaries\Win64\UE4Editor-donut.dll"
+/IMPLIB:"C:\Users\yena\Desktop\상명대\게임소프트웨어개발2\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\UE4Editor-donut.suppressed.lib"
+/PDB:"C:\Users\yena\Desktop\상명대\게임소프트웨어개발2\GameDev2\donut\Binaries\Win64\UE4Editor-donut.pdb"
 /ignore:4078
 /INCLUDE:IMPLEMENT_MODULE_donut

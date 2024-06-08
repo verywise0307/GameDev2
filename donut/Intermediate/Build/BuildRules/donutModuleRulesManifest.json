@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\yangc\\OneDrive\\바탕 화면\\겜소개\\GameDev2\\donut\\Source\\donut\\donut.Build.cs",
-		"C:\\Users\\yangc\\OneDrive\\바탕 화면\\겜소개\\GameDev2\\donut\\Source\\donut.Target.cs",
-		"C:\\Users\\yangc\\OneDrive\\바탕 화면\\겜소개\\GameDev2\\donut\\Source\\donutEditor.Target.cs"
+		"C:\\Users\\yena\\Desktop\\상명대\\게임소프트웨어개발2\\GameDev2\\donut\\Source\\donut\\donut.Build.cs",
+		"C:\\Users\\yena\\Desktop\\상명대\\게임소프트웨어개발2\\GameDev2\\donut\\Source\\donut.Target.cs",
+		"C:\\Users\\yena\\Desktop\\상명대\\게임소프트웨어개발2\\GameDev2\\donut\\Source\\donutEditor.Target.cs"
 	],
 	"EngineVersion": "4.26.2"
 }

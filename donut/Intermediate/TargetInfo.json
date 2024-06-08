@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "donut",
-			"Path": "C:\\Users\\yangc\\OneDrive\\바탕 화면\\겜소개\\GameDev2\\donut\\Source\\donut.Target.cs",
+			"Path": "C:\\Users\\NOTE\\Documents\\GitHub\\GameDev2\\donut\\Source\\donut.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "donutEditor",
-			"Path": "C:\\Users\\yangc\\OneDrive\\바탕 화면\\겜소개\\GameDev2\\donut\\Source\\donutEditor.Target.cs",
+			"Path": "C:\\Users\\NOTE\\Documents\\GitHub\\GameDev2\\donut\\Source\\donutEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
