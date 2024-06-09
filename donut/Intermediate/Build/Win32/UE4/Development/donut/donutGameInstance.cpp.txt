@@ -1,0 +1,3 @@
+C:\Users\yena\Desktop\GameDev2\GameDev2\donut\Intermediate\Build\Win32\UE4\Development\donut\Definitions.donut.h
+C:\Users\yena\Desktop\GameDev2\GameDev2\donut\Source\donut\donutGameInstance.h
+C:\Users\yena\Desktop\GameDev2\GameDev2\donut\Intermediate\Build\Win32\UE4\Inc\donut\donutGameInstance.generated.h
