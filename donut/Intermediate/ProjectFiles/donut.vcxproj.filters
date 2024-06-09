@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\donut.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{505E5966-F574-46DF-B052-6253DC14055C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\donut.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\donutEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore.txt" />
+    <None Include="..\..\AssetsvilleTown.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{BC04AEF2-DD41-4AAA-984B-E40B99A674EE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\donut">
+      <UniqueIdentifier>{AC49E6FB-B367-4AB1-BA8F-DD3B4954F5C6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\donut\donut.Build.cs">
+      <Filter>Source\donut</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\donut\donut.cpp">
+      <Filter>Source\donut</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\donut\donut.h">
+      <Filter>Source\donut</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\donut\donutCharacter.cpp">
+      <Filter>Source\donut</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\donut\donutCharacter.h">
+      <Filter>Source\donut</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\donut\donutGameInstance.cpp">
+      <Filter>Source\donut</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\donut\donutGameInstance.h">
+      <Filter>Source\donut</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\donut\donutGameMode.cpp">
+      <Filter>Source\donut</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\donut\donutGameMode.h">
+      <Filter>Source\donut</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\donut\puritybox.cpp">
+      <Filter>Source\donut</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\donut\puritybox.h">
+      <Filter>Source\donut</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
