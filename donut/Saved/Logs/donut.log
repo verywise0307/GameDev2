@@ -907,3 +907,1023 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.09-07.14.19:964][ 81]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
 [2024.06.09-07.14.19:964][ 81]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
 [2024.06.09-07.14.19:965][ 81]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
+[2024.06.09-07.23.05:388][316]LogContentBrowser: Deferred new asset file creation: NewPaperTileMap
+[2024.06.09-07.23.05:400][316]LogContentBrowser: Creating deferred item: NewPaperTileMap
+[2024.06.09-07.23.07:388][436]LogContentBrowser: Attempting asset rename: NewPaperTileMap -> NewPaperTileMap
+[2024.06.09-07.23.07:390][436]LogContentBrowser: End creating deferred item NewPaperTileMap
+[2024.06.09-07.23.08:001][472]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Maps/NewPaperTileMap.NewPaperTileMap
+[2024.06.09-07.23.08:080][472]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.06.09-07.23.08:107][472]LogRenderer: Reallocating scene render targets to support 1272x664 Format 10 NumSamples 1 (Frame:1).
+[2024.06.09-07.23.09:809][573]LogSlate: Window 'NewPaperTileMap*' being destroyed
+[2024.06.09-07.23.09:813][573]LogSlate: Window 'NewPaperTileMap*' being destroyed
+[2024.06.09-07.23.09:815][573]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.23.09:815][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.23.11:466][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.06.09-07.23.12:389][671]LogSlate: Window 'Delete Assets' being destroyed
+[2024.06.09-07.23.12:440][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.06.09-07.23.22:690][276]LogContentBrowser: Deferred new asset file creation: NewParticleSystem
+[2024.06.09-07.23.22:700][276]LogContentBrowser: Creating deferred item: NewParticleSystem
+[2024.06.09-07.23.24:039][357]LogContentBrowser: Attempting asset rename: NewParticleSystem -> NewParticleSystem
+[2024.06.09-07.23.24:040][357]LogContentBrowser: End creating deferred item NewParticleSystem
+[2024.06.09-07.23.27:300][551]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem
+[2024.06.09-07.23.27:310][551]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2024.06.09-07.23.30:026][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.23.30:031][698]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystemEA5AF8184244847B50E0CD8B9C9FC01D.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.23.30:040][698]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.23.30:041][698]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.23.45:247][601]LogTexture: Display: 텍스처 빌드: 3DGlasses_C (AutoDXT, 256X128)
+[2024.06.09-07.23.45:277][602]LogMaterial: Display: Material /Game/EF_Barbra/Common/MasterMaterial/Master_Props_Mat.Master_Props_Mat needed to have new flag set bUsedWithParticleSprites !
+[2024.06.09-07.23.45:281][602]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2024.06.09-07.23.45:377][603]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 126
+[2024.06.09-07.23.45:377][603]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 116
+[2024.06.09-07.23.45:377][603]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 106
+[2024.06.09-07.23.45:377][603]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 96
+[2024.06.09-07.23.45:377][603]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 86
+[2024.06.09-07.23.45:377][603]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 76
+[2024.06.09-07.23.45:377][603]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 66
+[2024.06.09-07.23.45:377][603]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 56
+[2024.06.09-07.23.45:377][603]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 46
+[2024.06.09-07.23.45:377][603]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 36
+[2024.06.09-07.23.45:377][603]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 26
+[2024.06.09-07.23.45:377][603]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2024.06.09-07.23.52:883][852]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2024.06.09-07.23.53:214][861]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2024.06.09-07.23.53:214][861]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2024.06.09-07.23.53:859][883]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2024.06.09-07.23.53:860][883]LogSlate: Window '색상 선택 툴' being destroyed
+[2024.06.09-07.23.54:103][891]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.06.09-07.23.54:103][891]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2024.06.09-07.23.55:848][969]LogTexture: Display: 텍스처 빌드: AntiqueTelevisionCover_a_c (AutoDXT, 256X256)
+[2024.06.09-07.24.10:069][769]LogMaterial: Display: Material /Game/EF_Barbra/Common/MasterMaterial/Master_WorldMaterial_Mat.Master_WorldMaterial_Mat needed to have new flag set bUsedWithParticleSprites !
+[2024.06.09-07.24.10:075][769]LogMaterial: Display: Missing cached shader map for material Master_WorldMaterial_Mat, compiling. 
+[2024.06.09-07.24.10:099][769]LogMaterial: Display: Missing cached shader map for material Master_WorldMaterial_Mat, compiling. 
+[2024.06.09-07.24.10:141][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 57
+[2024.06.09-07.24.10:141][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 52
+[2024.06.09-07.24.10:141][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 47
+[2024.06.09-07.24.10:141][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 42
+[2024.06.09-07.24.10:141][770]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 37
+[2024.06.09-07.24.10:141][770]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 32
+[2024.06.09-07.24.10:141][770]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 27
+[2024.06.09-07.24.10:141][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 22
+[2024.06.09-07.24.10:141][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2024.06.09-07.24.10:141][770]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2024.06.09-07.24.10:141][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2024.06.09-07.24.10:141][770]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2024.06.09-07.24.12:172][824]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 57
+[2024.06.09-07.24.13:439][858]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 52
+[2024.06.09-07.24.13:694][864]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 47
+[2024.06.09-07.24.13:847][867]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 43
+[2024.06.09-07.24.13:883][868]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 39
+[2024.06.09-07.24.14:014][872]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 35
+[2024.06.09-07.24.14:014][872]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 32
+[2024.06.09-07.24.14:256][878]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2024.06.09-07.24.14:461][882]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 26
+[2024.06.09-07.24.14:969][893]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 23
+[2024.06.09-07.24.15:014][894]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 21
+[2024.06.09-07.24.15:921][914]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2024.06.09-07.24.15:961][915]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 17
+[2024.06.09-07.24.16:043][918]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2024.06.09-07.24.16:067][919]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2024.06.09-07.24.16:261][923]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2024.06.09-07.24.16:452][928]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2024.06.09-07.24.16:452][928]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2024.06.09-07.24.16:480][929]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2024.06.09-07.24.16:908][939]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2024.06.09-07.24.16:908][939]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2024.06.09-07.24.16:971][940]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2024.06.09-07.24.17:433][948]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2024.06.09-07.24.17:534][950]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2024.06.09-07.24.17:534][950]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2024.06.09-07.24.17:708][954]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2024.06.09-07.25.32:750][272]Cmd: TRANSACTION UNDO
+[2024.06.09-07.25.32:750][272]LogEditorTransaction: Undo Quality Level Spawn Rate Scale 편집
+[2024.06.09-07.25.33:455][304]Cmd: TRANSACTION UNDO
+[2024.06.09-07.25.33:455][304]LogEditorTransaction: Undo Quality Level Spawn Rate Scale 편집
+[2024.06.09-07.25.33:989][336]Cmd: TRANSACTION UNDO
+[2024.06.09-07.25.33:989][336]LogEditorTransaction: Undo Material 편집
+[2024.06.09-07.25.34:795][384]Cmd: TRANSACTION UNDO
+[2024.06.09-07.25.34:795][384]LogEditorTransaction: Undo Material 편집
+[2024.06.09-07.25.35:129][404]Cmd: TRANSACTION UNDO
+[2024.06.09-07.25.35:129][404]LogEditorTransaction: Undo Material 편집
+[2024.06.09-07.25.35:412][421]Cmd: TRANSACTION UNDO
+[2024.06.09-07.25.35:413][421]LogEditorTransaction: Undo 새 이미터 생성
+[2024.06.09-07.25.38:312][595]LogEditorTransaction: Redo 새 이미터 생성
+[2024.06.09-07.25.38:879][629]LogEditorTransaction: Redo Material 편집
+[2024.06.09-07.25.39:962][694]LogEditorTransaction: Redo Material 편집
+[2024.06.09-07.25.40:662][736]LogEditorTransaction: Redo Material 편집
+[2024.06.09-07.25.41:029][758]LogEditorTransaction: Redo Quality Level Spawn Rate Scale 편집
+[2024.06.09-07.25.41:529][788]LogEditorTransaction: Redo Quality Level Spawn Rate Scale 편집
+[2024.06.09-07.25.43:163][886]LogEditorTransaction: Undo Quality Level Spawn Rate Scale 편집
+[2024.06.09-07.25.43:497][906]LogEditorTransaction: Undo Quality Level Spawn Rate Scale 편집
+[2024.06.09-07.25.43:663][916]LogEditorTransaction: Undo Material 편집
+[2024.06.09-07.25.43:780][923]LogEditorTransaction: Undo Material 편집
+[2024.06.09-07.25.43:880][929]LogEditorTransaction: Undo Material 편집
+[2024.06.09-07.25.44:080][941]LogEditorTransaction: Undo 새 이미터 생성
+[2024.06.09-07.25.44:713][979]LogEditorTransaction: Redo 새 이미터 생성
+[2024.06.09-07.25.45:196][  8]LogEditorTransaction: Redo Material 편집
+[2024.06.09-07.26.01:096][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.26.01:100][876]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystem7DAC473944745909AD1381B366CAD481.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.26.01:111][876]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.26.01:111][876]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.26.18:154][795]LogEditorTransaction: Undo 클래스 설정
+[2024.06.09-07.26.18:303][802]LogEditorTransaction: Undo 클래스 설정
+[2024.06.09-07.26.18:449][807]LogEditorTransaction: Undo 클래스 설정
+[2024.06.09-07.26.18:616][813]LogEditorTransaction: Undo 클래스 설정
+[2024.06.09-07.26.18:838][825]LogEditorTransaction: Undo Material 편집
+[2024.06.09-07.26.19:537][866]LogEditorTransaction: Redo Material 편집
+[2024.06.09-07.30.44:079][442]LogCascade: Non-seeded module ParticleModuleLifetime
+[2024.06.09-07.31.17:248][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.31.17:253][421]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystemFA6B23B644E781CF848343B23665B4FB.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.31.17:262][421]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.31.17:262][421]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.31.29:375][131]LogSlate: Window 'NewParticleSystem' being destroyed
+[2024.06.09-07.31.29:378][131]LogSlate: Window 'NewParticleSystem' being destroyed
+[2024.06.09-07.31.29:378][131]LogCascade: Quitting Cascade. FXSystem=0x0000015084569B70
+[2024.06.09-07.31.29:384][131]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.31.29:384][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.32.16:848][436]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem
+[2024.06.09-07.33.12:443][ 10]LogEditorTransaction: Undo 기본으로 리셋
+[2024.06.09-07.33.12:753][ 23]LogEditorTransaction: Undo 클래스 설정
+[2024.06.09-07.33.13:181][ 44]LogEditorTransaction: Undo 기본으로 리셋
+[2024.06.09-07.34.37:815][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.34.37:821][822]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystem049FD9754F6AB14E932614AC3A915018.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.34.37:830][822]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.34.37:830][822]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.36.14:776][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.06.09-07.36.14:779][ 19]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Stage1' took 0.009
+[2024.06.09-07.36.14:780][ 19]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Maps/NewParticleSystem] ([2] browsable assets)...
+[2024.06.09-07.36.14:783][ 19]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem]
+[2024.06.09-07.36.14:786][ 19]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem]
+[2024.06.09-07.36.14:786][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/NewParticleSystem]
+[2024.06.09-07.36.14:790][ 19]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystem_Auto17EDA6D004DCA330529FCD89F4BFBF165.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Autosaves/Game/Maps/NewParticleSystem_Auto1.uasset'
+[2024.06.09-07.36.14:792][ 19]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EF_Barbra/Materials/3DGlasses_Mat] ([1] browsable assets)...
+[2024.06.09-07.36.14:801][ 19]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/EF_Barbra/Materials/3DGlasses_Mat.3DGlasses_Mat]
+[2024.06.09-07.36.14:801][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/EF_Barbra/Materials/3DGlasses_Mat]
+[2024.06.09-07.36.14:806][ 19]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/3DGlasses_Mat_Auto11257461C4C90B854DAAB6C97112ABEEC.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Autosaves/Game/EF_Barbra/Materials/3DGlasses_Mat_Auto1.uasset'
+[2024.06.09-07.36.14:806][ 19]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EF_Barbra/Common/MasterMaterial/Master_Props_Mat] ([1] browsable assets)...
+[2024.06.09-07.36.14:815][ 19]OBJ SavePackage:     Rendered thumbnail for [Material /Game/EF_Barbra/Common/MasterMaterial/Master_Props_Mat.Master_Props_Mat]
+[2024.06.09-07.36.14:815][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/EF_Barbra/Common/MasterMaterial/Master_Props_Mat]
+[2024.06.09-07.36.14:831][ 19]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Master_Props_Mat_Auto191E01C7F4B7AC55F2A579298B9E794CF.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Autosaves/Game/EF_Barbra/Common/MasterMaterial/Master_Props_Mat_Auto1.uasset'
+[2024.06.09-07.36.14:833][ 19]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EF_Barbra/Common/Materials/Metal/WM_BrassBasic_a_mat] ([1] browsable assets)...
+[2024.06.09-07.36.14:840][ 19]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/EF_Barbra/Common/Materials/Metal/WM_BrassBasic_a_mat.WM_BrassBasic_a_mat]
+[2024.06.09-07.36.14:840][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/EF_Barbra/Common/Materials/Metal/WM_BrassBasic_a_mat]
+[2024.06.09-07.36.14:846][ 19]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/WM_BrassBasic_a_mat_Auto10D1A196E4E67DD5BABCF14AFF0D83F87.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Autosaves/Game/EF_Barbra/Common/Materials/Metal/WM_BrassBasic_a_mat_Auto1.uasset'
+[2024.06.09-07.36.14:847][ 19]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/EF_Barbra/Common/MasterMaterial/Master_WorldMaterial_Mat] ([1] browsable assets)...
+[2024.06.09-07.36.14:855][ 19]OBJ SavePackage:     Rendered thumbnail for [Material /Game/EF_Barbra/Common/MasterMaterial/Master_WorldMaterial_Mat.Master_WorldMaterial_Mat]
+[2024.06.09-07.36.14:855][ 19]OBJ SavePackage: Finished generating thumbnails for package [/Game/EF_Barbra/Common/MasterMaterial/Master_WorldMaterial_Mat]
+[2024.06.09-07.36.14:866][ 19]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Master_WorldMaterial_Mat_Auto1BBC645F5407E0764050D4E95F8468918.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Autosaves/Game/EF_Barbra/Common/MasterMaterial/Master_WorldMaterial_Mat_Auto1.uasset'
+[2024.06.09-07.36.14:867][ 19]LogFileHelpers: Auto-saving content packages took 0.087
+[2024.06.09-07.42.22:025][188]LogMaterial: Display: Material /Game/EF_Barbra/Common/MasterMaterial/Master_Props_Emmisive_Mat.Master_Props_Emmisive_Mat needed to have new flag set bUsedWithParticleSprites !
+[2024.06.09-07.42.22:026][188]LogMaterial: Display: Missing cached shader map for material Master_Props_Emmisive_Mat, compiling. 
+[2024.06.09-07.42.22:050][188]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 57
+[2024.06.09-07.42.22:050][188]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 52
+[2024.06.09-07.42.22:050][188]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 47
+[2024.06.09-07.42.22:050][188]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 42
+[2024.06.09-07.42.22:050][188]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 37
+[2024.06.09-07.42.22:050][188]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 32
+[2024.06.09-07.42.22:050][188]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 27
+[2024.06.09-07.42.22:050][188]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 22
+[2024.06.09-07.42.22:050][188]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2024.06.09-07.42.22:050][188]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2024.06.09-07.42.22:050][188]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2024.06.09-07.42.22:050][188]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2024.06.09-07.42.22:050][188]LogMaterial: Display: Missing cached shader map for material Master_Props_Emmisive_Mat, compiling. 
+[2024.06.09-07.42.24:737][275]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 57
+[2024.06.09-07.42.26:974][336]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 52
+[2024.06.09-07.42.27:029][338]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 47
+[2024.06.09-07.42.27:062][339]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 43
+[2024.06.09-07.42.27:094][340]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 39
+[2024.06.09-07.42.27:325][349]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 35
+[2024.06.09-07.42.27:325][349]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 32
+[2024.06.09-07.42.27:530][357]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2024.06.09-07.42.27:601][360]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2024.06.09-07.42.27:731][365]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 23
+[2024.06.09-07.42.27:889][371]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 21
+[2024.06.09-07.42.28:687][400]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2024.06.09-07.42.28:885][405]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2024.06.09-07.42.29:050][411]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 15
+[2024.06.09-07.42.29:561][429]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2024.06.09-07.42.29:561][429]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2024.06.09-07.42.29:825][439]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2024.06.09-07.42.29:956][443]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2024.06.09-07.42.30:126][449]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2024.06.09-07.42.30:181][451]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2024.06.09-07.42.30:348][456]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2024.06.09-07.42.30:348][456]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2024.06.09-07.42.30:991][478]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2024.06.09-07.42.31:045][480]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2024.06.09-07.42.31:045][480]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2024.06.09-07.42.36:605][798]LogMaterial: Display: Material /Game/EF_Edie/Common/MasterMaterial/Master_Props_Mat.Master_Props_Mat needed to have new flag set bUsedWithParticleSprites !
+[2024.06.09-07.42.36:606][798]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2024.06.09-07.42.36:656][798]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2024.06.09-07.42.36:719][798]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 126
+[2024.06.09-07.42.36:719][798]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 116
+[2024.06.09-07.42.36:719][798]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 106
+[2024.06.09-07.42.36:719][798]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 96
+[2024.06.09-07.42.36:719][798]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 86
+[2024.06.09-07.42.36:719][798]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 76
+[2024.06.09-07.42.36:719][798]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 66
+[2024.06.09-07.42.36:719][798]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 56
+[2024.06.09-07.42.36:719][798]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 46
+[2024.06.09-07.42.36:719][798]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 36
+[2024.06.09-07.42.36:719][798]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 26
+[2024.06.09-07.42.36:719][798]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 16
+[2024.06.09-07.42.36:719][798]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2024.06.09-07.42.36:808][798]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2024.06.09-07.42.36:917][798]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2024.06.09-07.42.37:032][798]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2024.06.09-07.42.43:350][999]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 636
+[2024.06.09-07.42.43:351][999]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 626
+[2024.06.09-07.42.44:388][ 39]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 616
+[2024.06.09-07.42.44:814][ 56]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 606
+[2024.06.09-07.42.45:252][ 73]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 596
+[2024.06.09-07.42.45:252][ 73]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 586
+[2024.06.09-07.42.45:277][ 74]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 576
+[2024.06.09-07.42.45:379][ 78]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 566
+[2024.06.09-07.42.46:462][120]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 556
+[2024.06.09-07.42.46:991][139]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 546
+[2024.06.09-07.42.46:991][139]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 536
+[2024.06.09-07.42.50:577][257]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 526
+[2024.06.09-07.42.50:870][263]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 516
+[2024.06.09-07.42.50:914][264]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 506
+[2024.06.09-07.42.52:582][318]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 496
+[2024.06.09-07.42.52:855][327]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 486
+[2024.06.09-07.42.52:998][331]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 476
+[2024.06.09-07.42.53:203][338]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 466
+[2024.06.09-07.42.54:824][365]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 456
+[2024.06.09-07.42.54:824][365]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 446
+[2024.06.09-07.42.56:831][416]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 436
+[2024.06.09-07.42.56:831][416]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 426
+[2024.06.09-07.42.57:851][447]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 416
+[2024.06.09-07.42.58:452][467]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 406
+[2024.06.09-07.42.58:548][470]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 396
+[2024.06.09-07.42.59:938][516]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 386
+[2024.06.09-07.43.00:466][527]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 376
+[2024.06.09-07.43.01:286][540]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 366
+[2024.06.09-07.43.01:287][540]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 356
+[2024.06.09-07.43.01:660][540]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 346
+[2024.06.09-07.43.02:104][542]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 336
+[2024.06.09-07.43.03:875][598]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 326
+[2024.06.09-07.43.03:924][600]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 316
+[2024.06.09-07.43.06:526][673]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 306
+[2024.06.09-07.43.06:797][676]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 296
+[2024.06.09-07.43.07:085][679]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 286
+[2024.06.09-07.43.07:601][690]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 276
+[2024.06.09-07.43.07:934][696]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 266
+[2024.06.09-07.43.08:358][707]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 256
+[2024.06.09-07.43.09:080][726]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 246
+[2024.06.09-07.43.09:450][733]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 236
+[2024.06.09-07.43.10:362][756]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 226
+[2024.06.09-07.43.10:734][766]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 216
+[2024.06.09-07.43.12:053][802]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 206
+[2024.06.09-07.43.12:901][824]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 196
+[2024.06.09-07.43.13:599][842]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 186
+[2024.06.09-07.43.13:732][846]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 176
+[2024.06.09-07.43.15:145][886]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 166
+[2024.06.09-07.43.15:550][896]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 156
+[2024.06.09-07.43.16:490][922]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 146
+[2024.06.09-07.43.16:974][935]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 136
+[2024.06.09-07.43.17:549][951]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 126
+[2024.06.09-07.43.17:549][951]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 116
+[2024.06.09-07.43.17:749][955]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 106
+[2024.06.09-07.43.19:696][  7]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 97
+[2024.06.09-07.43.20:539][ 30]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 88
+[2024.06.09-07.43.21:380][ 52]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 80
+[2024.06.09-07.43.22:385][ 79]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 73
+[2024.06.09-07.43.23:111][ 98]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 66
+[2024.06.09-07.43.23:914][119]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 60
+[2024.06.09-07.43.23:914][119]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 54
+[2024.06.09-07.43.24:765][142]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 48
+[2024.06.09-07.43.25:007][149]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 43
+[2024.06.09-07.43.25:133][152]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 39
+[2024.06.09-07.43.25:700][172]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 35
+[2024.06.09-07.43.26:220][188]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 32
+[2024.06.09-07.43.26:269][189]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 29
+[2024.06.09-07.43.26:987][205]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2024.06.09-07.43.27:296][215]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 23
+[2024.06.09-07.43.27:404][218]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2024.06.09-07.43.28:106][236]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2024.06.09-07.43.28:106][236]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2024.06.09-07.43.28:364][244]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2024.06.09-07.43.28:509][247]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2024.06.09-07.43.28:548][248]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2024.06.09-07.43.30:383][262]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2024.06.09-07.43.30:383][262]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2024.06.09-07.43.30:383][262]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2024.06.09-07.43.30:383][262]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 7
+[2024.06.09-07.43.30:383][262]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2024.06.09-07.43.30:383][262]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2024.06.09-07.43.30:383][262]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2024.06.09-07.43.30:383][262]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2024.06.09-07.43.30:383][262]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2024.06.09-07.43.30:383][262]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2024.06.09-07.44.01:354][ 55]LogSlate: Window '색상 선택 툴' being destroyed
+[2024.06.09-07.44.34:051][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.44.34:056][730]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystem0959CAD144C2B4FF5F43CAA1723741CF.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.44.34:065][730]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.44.34:066][730]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.44.38:872][ 17]LogSlate: Window 'NewParticleSystem' being destroyed
+[2024.06.09-07.44.38:876][ 17]LogSlate: Window 'NewParticleSystem' being destroyed
+[2024.06.09-07.44.38:876][ 17]LogCascade: Quitting Cascade. FXSystem=0x000001507E409C90
+[2024.06.09-07.44.38:889][ 17]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.44.38:889][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.45.08:213][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.09-07.45.08:219][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.06.09-07.45.08:248][768]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage16614A2BF44BA77F0E8FED0906632768B.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap'
+[2024.06.09-07.45.08:261][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1_BuiltData" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset" SILENT=true
+[2024.06.09-07.45.08:298][768]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1_BuiltData0C24459E491DA31238DBF4A5EC1FD9B7.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset'
+[2024.06.09-07.45.08:309][768]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2024.06.09-07.45.08:309][768]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
+[2024.06.09-07.45.08:309][768]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
+[2024.06.09-07.45.58:007][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.09-07.45.58:010][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.06.09-07.45.58:042][733]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage193FF43214302DF588629C78B3835BDF8.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap'
+[2024.06.09-07.45.58:055][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1_BuiltData" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset" SILENT=true
+[2024.06.09-07.45.58:092][733]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1_BuiltData6D16C35C4BAC334ED9A17EA0A057C369.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset'
+[2024.06.09-07.45.58:104][733]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2024.06.09-07.45.58:104][733]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
+[2024.06.09-07.45.58:104][733]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
+[2024.06.09-07.45.58:637][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.09-07.45.58:641][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.06.09-07.45.58:673][764]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1527C3195448F32BD6076EC9172D73D7D.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap'
+[2024.06.09-07.45.58:687][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1_BuiltData" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset" SILENT=true
+[2024.06.09-07.45.58:726][764]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1_BuiltDataC97208B2450FAF3F4EAEB6A2B9BC527F.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset'
+[2024.06.09-07.45.58:740][764]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2024.06.09-07.45.58:740][764]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
+[2024.06.09-07.45.58:740][764]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
+[2024.06.09-07.45.59:907][831]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2024.06.09-07.45.59:917][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.09-07.45.59:917][831]PIE: New page: PIE 세션: Stage1 (2024. 6. 10. 오전 1:45:59)
+[2024.06.09-07.45.59:917][831]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage1
+[2024.06.09-07.45.59:922][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004961s)
+[2024.06.09-07.45.59:923][831]LogAIModule: Creating AISystem for world Stage1
+[2024.06.09-07.45.59:923][831]LogPlayLevel: PIE: World Init took: (0.000855s)
+[2024.06.09-07.45.59:923][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage1.Stage1 to /Game/Maps/UEDPIE_0_Stage1.Stage1 (0.005929s)
+[2024.06.09-07.45.59:927][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.06.09-07.45.59:928][831]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.06.09-07.45.59:928][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.09-07.45.59:928][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.09-07.45.59:928][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.09-07.45.59:928][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.09-07.45.59:928][831]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.09-07.45.59:928][831]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.09-07.45.59:928][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.09-07.45.59:928][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.09-07.45.59:928][831]LogAudio: Display: Using built-in audio occlusion.
+[2024.06.09-07.45.59:928][831]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.09-07.45.59:930][831]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.09-07.45.59:930][831]LogAudioMixer: Display: 1: FrontRight
+[2024.06.09-07.45.59:946][831]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2024.06.09-07.45.59:946][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.09-07.45.59:946][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.09-07.45.59:947][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.09-07.45.59:948][831]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.09-07.45.59:948][831]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.09-07.45.59:948][831]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.09-07.45.59:961][831]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.09-07.45.59:961][831]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.09-07.45.59:961][831]LogInit: FAudioDevice initialized.
+[2024.06.09-07.45.59:961][831]LogAudio: Display: Audio Device (ID: 3) registered with world 'Stage1'.
+[2024.06.09-07.45.59:987][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.09-07.45.59:987][831]LogLoad: Game class is 'donutGameMode'
+[2024.06.09-07.45.59:990][831]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 60) at 2024.06.09-16.45.59
+[2024.06.09-07.45.59:991][831]LogWorld: Bringing up level for play took: 0.002232
+[2024.06.09-07.45.59:991][831]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2024.06.09-07.45.59:995][831]PIE: 서버가 로그인했습니다.
+[2024.06.09-07.45.59:996][831]PIE: 에디터에서 플레이 총 시작 시간 0.082초입니다.
+[2024.06.09-07.47.39:892][784]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.39:909][785]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.39:925][786]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.39:943][787]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.39:958][788]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.39:976][789]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.39:993][790]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:008][791]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:025][792]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:042][793]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:058][794]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:075][795]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:092][796]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:108][797]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:125][798]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:142][799]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:159][800]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:176][801]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:192][802]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:208][803]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:225][804]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:241][805]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:259][806]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:276][807]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:292][808]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:308][809]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:326][810]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:343][811]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:359][812]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:376][813]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:392][814]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:409][815]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:425][816]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:441][817]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:459][818]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:476][819]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:493][820]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:508][821]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:526][822]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:542][823]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:558][824]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:576][825]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:592][826]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:608][827]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:626][828]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:642][829]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:658][830]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:676][831]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:692][832]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:709][833]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:726][834]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:742][835]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:759][836]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:775][837]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:792][838]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:808][839]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:825][840]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:841][841]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:859][842]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:875][843]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:892][844]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:908][845]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:925][846]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:942][847]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:958][848]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:976][849]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.40:992][850]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:008][851]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:025][852]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:042][853]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:058][854]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:075][855]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:093][856]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:109][857]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:126][858]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:143][859]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:159][860]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:176][861]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:192][862]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:208][863]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:226][864]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:242][865]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:259][866]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:275][867]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:292][868]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:308][869]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:325][870]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:342][871]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:359][872]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:375][873]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:392][874]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:409][875]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:425][876]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:443][877]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:459][878]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:475][879]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:492][880]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:509][881]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:525][882]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:542][883]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:558][884]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:575][885]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:592][886]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:609][887]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:625][888]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:642][889]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:659][890]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:675][891]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:692][892]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:709][893]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:726][894]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:742][895]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:759][896]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:775][897]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:793][898]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:809][899]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:826][900]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:841][901]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:859][902]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:875][903]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:892][904]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:909][905]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:926][906]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:943][907]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:958][908]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:975][909]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.41:993][910]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.42:008][911]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.42:025][912]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.42:042][913]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.42:059][914]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.42:075][915]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.42:092][916]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.42:109][917]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.42:126][918]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.42:141][919]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.42:159][920]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.42:176][921]LogBlueprintUserMessages: [Time_2] 게임 오버
+[2024.06.09-07.47.42:221][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.09-07.47.42:221][921]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage1
+[2024.06.09-07.47.42:221][921]LogSlate: Window 'donut 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2024.06.09-07.47.42:231][921]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.47.42:232][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.47.42:239][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.09-07.47.42:250][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.47.42:253][921]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.09-07.47.42:254][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.09-07.47.42:256][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.09-07.47.42:276][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.06.09-07.47.42:521][922]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.06.09-07.47.48:407][ 44]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem
+[2024.06.09-07.49.19:723][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.49.19:728][411]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystemCDC5753648DCBC660190FB9D9B0520C5.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.49.19:738][411]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.49.19:738][411]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.49.32:467][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.49.32:472][166]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystem6C0DE23046092DB459721B99FD6395F1.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.49.32:481][166]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.49.32:481][166]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.51.09:465][ 44]LogEditorTransaction: Undo 모두 디폴트로 리셋
+[2024.06.09-07.51.10:807][114]LogEditorTransaction: Undo 자손 추가
+[2024.06.09-07.51.57:582][163]LogSlate: Window '색상 선택 툴' being destroyed
+[2024.06.09-07.52.38:334][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.52.38:339][ 45]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystem78BE383F4EDC9A8F3AD81AB06243C9FB.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.52.38:350][ 45]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.52.38:350][ 45]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.52.46:531][298]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_A.M_Smoke_A
+[2024.06.09-07.52.46:535][298]LogMaterial: Display: Missing cached shader map for material M_Smoke_A, compiling. 
+[2024.06.09-07.52.46:777][298]LogMaterial: Display: Missing cached shader map for material M_Smoke_A, compiling. 
+[2024.06.09-07.52.46:793][298]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2024.06.09-07.52.46:793][298]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2024.06.09-07.52.46:793][298]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 20
+[2024.06.09-07.52.46:793][298]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2024.06.09-07.52.46:793][298]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2024.06.09-07.52.46:793][298]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2024.06.09-07.52.46:793][298]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 16
+[2024.06.09-07.52.46:793][298]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2024.06.09-07.52.46:793][298]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 14
+[2024.06.09-07.52.46:793][298]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2024.06.09-07.52.46:793][298]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2024.06.09-07.52.46:793][298]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2024.06.09-07.52.46:797][298]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2024.06.09-07.52.46:800][298]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2024.06.09-07.52.47:591][317]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 18
+[2024.06.09-07.52.47:967][327]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 17
+[2024.06.09-07.52.48:113][332]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 16
+[2024.06.09-07.52.48:262][336]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2024.06.09-07.52.48:262][336]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 14
+[2024.06.09-07.52.48:262][336]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 13
+[2024.06.09-07.52.48:262][336]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2024.06.09-07.52.48:333][337]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2024.06.09-07.52.48:503][341]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2024.06.09-07.52.48:504][341]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2024.06.09-07.52.48:504][341]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2024.06.09-07.52.48:504][341]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2024.06.09-07.52.49:011][350]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2024.06.09-07.52.49:353][357]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2024.06.09-07.52.49:546][361]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2024.06.09-07.52.49:546][361]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2024.06.09-07.52.49:546][361]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2024.06.09-07.52.49:546][361]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2024.06.09-07.52.50:162][379]MaterialEditorStats: Base pass shader: 94 instructions
+[2024.06.09-07.52.50:162][379]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 121 instructions
+[2024.06.09-07.52.50:162][379]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.06.09-07.52.50:162][379]MaterialEditorStats: Texture samplers: 4/16
+[2024.06.09-07.52.50:162][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.06.09-07.52.50:162][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.09-07.53.01:444][459]LogSlate: Took 0.005015 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.06.09-07.53.35:098][358]LogMaterial: Display: Missing cached shader map for material M_Smoke_A, compiling. 
+[2024.06.09-07.53.35:110][358]LogMaterial: Display: Missing cached shader map for material M_Smoke_A, compiling. 
+[2024.06.09-07.53.35:146][359]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2024.06.09-07.53.35:146][359]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2024.06.09-07.53.35:146][359]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 20
+[2024.06.09-07.53.35:146][359]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2024.06.09-07.53.35:146][359]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2024.06.09-07.53.35:146][359]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2024.06.09-07.53.35:147][359]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 16
+[2024.06.09-07.53.35:147][359]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2024.06.09-07.53.35:147][359]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 14
+[2024.06.09-07.53.35:147][359]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2024.06.09-07.53.35:147][359]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2024.06.09-07.53.35:147][359]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2024.06.09-07.53.35:952][389]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2024.06.09-07.53.36:158][394]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2024.06.09-07.53.36:267][397]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 8
+[2024.06.09-07.53.36:330][399]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2024.06.09-07.53.36:419][402]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2024.06.09-07.53.36:562][407]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2024.06.09-07.53.36:563][407]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2024.06.09-07.53.36:563][407]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2024.06.09-07.53.36:696][409]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2024.06.09-07.53.36:696][409]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2024.06.09-07.53.37:857][446]MaterialEditorStats: Base pass shader: 95 instructions
+[2024.06.09-07.53.37:857][446]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 122 instructions
+[2024.06.09-07.53.37:857][446]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.06.09-07.53.37:857][446]MaterialEditorStats: Texture samplers: 4/16
+[2024.06.09-07.53.37:857][446]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.06.09-07.53.37:857][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.09-07.53.47:153][672]LogMaterialEditor: Saving and Compiling material M_Smoke_A
+[2024.06.09-07.53.47:590][672]LogMaterial: Display: Missing cached shader map for material M_Smoke_A, compiling. 
+[2024.06.09-07.53.47:638][672]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2024.06.09-07.53.47:638][672]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2024.06.09-07.53.47:638][672]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 20
+[2024.06.09-07.53.47:638][672]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2024.06.09-07.53.47:638][672]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2024.06.09-07.53.47:638][672]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2024.06.09-07.53.47:638][672]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 16
+[2024.06.09-07.53.47:638][672]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2024.06.09-07.53.47:638][672]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 14
+[2024.06.09-07.53.47:638][672]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 13
+[2024.06.09-07.53.47:638][672]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 12
+[2024.06.09-07.53.47:638][672]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2024.06.09-07.53.47:648][672]LogMaterial: Display: Missing cached shader map for material M_Smoke_A, compiling. 
+[2024.06.09-07.53.47:736][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.06.09-07.53.47:745][672]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2024.06.09-07.53.48:292][672]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 124
+[2024.06.09-07.53.48:292][672]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 123
+[2024.06.09-07.53.48:292][672]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 122
+[2024.06.09-07.53.48:835][672]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 121
+[2024.06.09-07.53.48:835][672]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 120
+[2024.06.09-07.53.48:835][672]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 119
+[2024.06.09-07.53.48:835][672]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 118
+[2024.06.09-07.53.48:835][672]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 117
+[2024.06.09-07.53.48:835][672]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 116
+[2024.06.09-07.53.48:835][672]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 115
+[2024.06.09-07.53.48:835][672]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 114
+[2024.06.09-07.53.48:835][672]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 113
+[2024.06.09-07.53.49:167][672]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 112
+[2024.06.09-07.53.49:167][672]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 102
+[2024.06.09-07.53.49:167][672]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 93
+[2024.06.09-07.53.49:186][672]TextureStreamingBuild: Display: Compiling optional shaders took 1.447 seconds.
+[2024.06.09-07.53.49:214][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.06.09-07.53.49:834][672]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 85
+[2024.06.09-07.53.49:834][672]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 77
+[2024.06.09-07.53.49:834][672]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 70
+[2024.06.09-07.53.49:834][672]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 64
+[2024.06.09-07.53.49:834][672]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 58
+[2024.06.09-07.53.49:834][672]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 52
+[2024.06.09-07.53.49:834][672]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 47
+[2024.06.09-07.53.49:834][672]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 42
+[2024.06.09-07.53.50:377][672]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 38
+[2024.06.09-07.53.51:999][672]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 34
+[2024.06.09-07.53.52:540][672]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 31
+[2024.06.09-07.53.52:540][672]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2024.06.09-07.53.53:078][672]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2024.06.09-07.53.53:619][672]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 22
+[2024.06.09-07.53.53:619][672]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 20
+[2024.06.09-07.53.53:619][672]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 18
+[2024.06.09-07.53.54:692][672]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 16
+[2024.06.09-07.53.54:692][672]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 14
+[2024.06.09-07.53.54:692][672]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2024.06.09-07.53.55:232][672]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2024.06.09-07.53.55:232][672]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2024.06.09-07.53.55:232][672]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2024.06.09-07.53.55:770][672]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2024.06.09-07.53.55:770][672]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2024.06.09-07.53.55:770][672]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2024.06.09-07.53.55:770][672]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2024.06.09-07.53.55:770][672]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2024.06.09-07.53.56:309][672]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2024.06.09-07.53.56:309][672]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2024.06.09-07.53.56:865][672]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/M_Smoke_AC7F11B50481FB9BD6BA7B5BC84DE091C.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_A.uasset'
+[2024.06.09-07.53.56:890][672]AssetCheck: New page: 애셋 저장: M_Smoke_A
+[2024.06.09-07.53.56:890][672]LogContentValidation: Display: Material /Game/Realistic_Starter_VFX_Pack_Vol2/Materials/M_Smoke_A.M_Smoke_A 유효성 검사
+[2024.06.09-07.53.56:891][672]MaterialEditorStats: Base pass shader: 95 instructions
+[2024.06.09-07.53.56:891][672]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 122 instructions
+[2024.06.09-07.53.56:891][672]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.06.09-07.53.56:891][672]MaterialEditorStats: Texture samplers: 8/16
+[2024.06.09-07.53.56:891][672]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.06.09-07.53.56:891][672]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.06.09-07.54.10:477][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.54.10:481][ 40]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystem9CC42D5A416929248BC4689D4A9A4502.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.54.10:494][ 40]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.54.10:494][ 40]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.54.16:886][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.54.16:890][412]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystem4CF4607B4D5FFC5DBF49ECB4BA9DFF4A.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.54.16:904][412]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.54.16:904][412]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.54.18:930][516]LogSlate: Window 'M_Smoke_A' being destroyed
+[2024.06.09-07.54.18:934][516]LogSlate: Window 'M_Smoke_A' being destroyed
+[2024.06.09-07.54.18:935][516]LogCascade: Quitting Cascade. FXSystem=0x000001506BC51480
+[2024.06.09-07.54.18:950][516]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.54.18:950][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.54.18:997][516]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.54.18:997][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.54.19:762][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.09-07.54.19:767][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.06.09-07.54.19:803][558]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1804C90B24DD9628D69B366824258047D.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap'
+[2024.06.09-07.54.19:816][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1_BuiltData" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset" SILENT=true
+[2024.06.09-07.54.19:855][558]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1_BuiltDataB2BAD6D847EAC2341977ADA1C554A047.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset'
+[2024.06.09-07.54.19:866][558]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2024.06.09-07.54.19:866][558]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
+[2024.06.09-07.54.19:866][558]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
+[2024.06.09-07.54.25:516][895]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2024.06.09-07.54.25:522][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.09-07.54.25:522][895]PIE: New page: PIE 세션: Stage1 (2024. 6. 10. 오전 1:54:25)
+[2024.06.09-07.54.25:522][895]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage1
+[2024.06.09-07.54.25:527][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004709s)
+[2024.06.09-07.54.25:528][895]LogAIModule: Creating AISystem for world Stage1
+[2024.06.09-07.54.25:528][895]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2024.06.09-07.54.25:528][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage1.Stage1 to /Game/Maps/UEDPIE_0_Stage1.Stage1 (0.005772s)
+[2024.06.09-07.54.25:532][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.06.09-07.54.25:534][895]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.06.09-07.54.25:534][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.09-07.54.25:534][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.09-07.54.25:534][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.09-07.54.25:534][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.09-07.54.25:534][895]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.09-07.54.25:534][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.09-07.54.25:534][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.09-07.54.25:534][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.09-07.54.25:534][895]LogAudio: Display: Using built-in audio occlusion.
+[2024.06.09-07.54.25:534][895]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.09-07.54.25:537][895]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.09-07.54.25:537][895]LogAudioMixer: Display: 1: FrontRight
+[2024.06.09-07.54.25:551][895]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2024.06.09-07.54.25:552][895]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.09-07.54.25:552][895]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.09-07.54.25:552][895]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.09-07.54.25:552][895]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.09-07.54.25:552][895]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.09-07.54.25:552][895]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.09-07.54.25:565][895]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.09-07.54.25:566][895]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.09-07.54.25:566][895]LogInit: FAudioDevice initialized.
+[2024.06.09-07.54.25:566][895]LogAudio: Display: Audio Device (ID: 4) registered with world 'Stage1'.
+[2024.06.09-07.54.25:590][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.09-07.54.25:591][895]LogLoad: Game class is 'donutGameMode'
+[2024.06.09-07.54.25:593][895]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 60) at 2024.06.09-16.54.25
+[2024.06.09-07.54.25:593][895]LogWorld: Bringing up level for play took: 0.002272
+[2024.06.09-07.54.25:594][895]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2024.06.09-07.54.25:598][895]PIE: 서버가 로그인했습니다.
+[2024.06.09-07.54.25:599][895]PIE: 에디터에서 플레이 총 시작 시간 0.077초입니다.
+[2024.06.09-07.54.57:462][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.09-07.54.57:462][803]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage1
+[2024.06.09-07.54.57:463][803]LogSlate: Window 'donut 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2024.06.09-07.54.57:467][803]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.54.57:468][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.54.57:479][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.09-07.54.57:488][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.54.57:491][803]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.09-07.54.57:491][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.09-07.54.57:494][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.09-07.54.57:511][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.06.09-07.54.57:533][804]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.06.09-07.55.46:851][665]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem
+[2024.06.09-07.55.57:945][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.55.57:950][318]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystemCADD25F94A8DD8F180353D8852D7B0B2.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.55.57:960][318]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.55.57:960][318]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.56.05:673][772]LogSlate: Window '색상 선택 툴' being destroyed
+[2024.06.09-07.56.12:209][162]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.06.09-07.56.18:695][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.56.18:700][547]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystemCFFFAFD941BA297CF4E1C1946367AC66.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.56.18:712][547]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.56.18:712][547]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.56.19:442][589]LogSlate: Window 'NewParticleSystem' being destroyed
+[2024.06.09-07.56.19:445][589]LogSlate: Window 'NewParticleSystem' being destroyed
+[2024.06.09-07.56.19:445][589]LogCascade: Quitting Cascade. FXSystem=0x00000150D72AE680
+[2024.06.09-07.56.19:459][589]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.56.19:459][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.56.20:793][666]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2024.06.09-07.56.20:800][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.09-07.56.20:800][666]PIE: New page: PIE 세션: Stage1 (2024. 6. 10. 오전 1:56:20)
+[2024.06.09-07.56.20:800][666]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage1
+[2024.06.09-07.56.20:805][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004505s)
+[2024.06.09-07.56.20:806][666]LogAIModule: Creating AISystem for world Stage1
+[2024.06.09-07.56.20:806][666]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2024.06.09-07.56.20:806][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage1.Stage1 to /Game/Maps/UEDPIE_0_Stage1.Stage1 (0.005448s)
+[2024.06.09-07.56.20:810][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.06.09-07.56.20:813][666]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.06.09-07.56.20:813][666]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.09-07.56.20:813][666]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.09-07.56.20:813][666]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.09-07.56.20:813][666]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.09-07.56.20:813][666]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.09-07.56.20:813][666]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.09-07.56.20:813][666]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.09-07.56.20:813][666]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.09-07.56.20:814][666]LogAudio: Display: Using built-in audio occlusion.
+[2024.06.09-07.56.20:814][666]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.09-07.56.20:816][666]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.09-07.56.20:816][666]LogAudioMixer: Display: 1: FrontRight
+[2024.06.09-07.56.20:830][666]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2024.06.09-07.56.20:831][666]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.09-07.56.20:831][666]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.09-07.56.20:831][666]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.09-07.56.20:831][666]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.09-07.56.20:831][666]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.09-07.56.20:831][666]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.09-07.56.20:845][666]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.09-07.56.20:845][666]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.09-07.56.20:845][666]LogInit: FAudioDevice initialized.
+[2024.06.09-07.56.20:845][666]LogAudio: Display: Audio Device (ID: 5) registered with world 'Stage1'.
+[2024.06.09-07.56.20:868][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.09-07.56.20:868][666]LogLoad: Game class is 'donutGameMode'
+[2024.06.09-07.56.20:870][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 60) at 2024.06.09-16.56.20
+[2024.06.09-07.56.20:870][666]LogWorld: Bringing up level for play took: 0.002047
+[2024.06.09-07.56.20:870][666]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2024.06.09-07.56.20:874][666]PIE: 서버가 로그인했습니다.
+[2024.06.09-07.56.20:876][666]PIE: 에디터에서 플레이 총 시작 시간 0.077초입니다.
+[2024.06.09-07.57.10:710][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.09-07.57.10:710][ 39]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage1
+[2024.06.09-07.57.10:711][ 39]LogSlate: Window 'donut 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2024.06.09-07.57.10:721][ 39]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.57.10:722][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.57.10:728][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.09-07.57.10:737][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.57.10:741][ 39]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.09-07.57.10:741][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.09-07.57.10:742][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.09-07.57.10:759][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.06.09-07.57.10:805][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.06.09-07.57.11:560][ 84]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem
+[2024.06.09-07.57.30:291][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.57.30:297][674]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystem492703B946FC50829FAB07AF38C4D661.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.57.30:306][674]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.57.30:306][674]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.57.31:854][751]LogSlate: Window 'NewParticleSystem' being destroyed
+[2024.06.09-07.57.31:857][751]LogSlate: Window 'NewParticleSystem' being destroyed
+[2024.06.09-07.57.31:857][751]LogCascade: Quitting Cascade. FXSystem=0x00000150DA4F72E0
+[2024.06.09-07.57.31:869][751]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.57.31:869][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.57.37:420][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.09-07.57.37:425][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.06.09-07.57.37:457][ 82]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1537650064AEB5A82F0F37EB8F5E8BCFF.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap'
+[2024.06.09-07.57.37:471][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1_BuiltData" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset" SILENT=true
+[2024.06.09-07.57.37:510][ 82]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1_BuiltDataE7958FA74772474742E783B2E5795010.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset'
+[2024.06.09-07.57.37:521][ 82]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2024.06.09-07.57.37:521][ 82]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
+[2024.06.09-07.57.37:521][ 82]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
+[2024.06.09-07.57.39:068][171]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (BookshelfInset_a)
+[2024.06.09-07.57.39:735][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BookstackHorizontal_b)
+[2024.06.09-07.57.42:859][392]LogEditorViewport: Clicking on Actor (LMB): Emitter (NewParticleSystem)
+[2024.06.09-07.57.50:655][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.09-07.57.50:659][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.06.09-07.57.50:690][857]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1D4128B7C4D599852A6D65DB58E31F019.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap'
+[2024.06.09-07.57.50:702][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1_BuiltData" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset" SILENT=true
+[2024.06.09-07.57.50:737][857]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1_BuiltData0CBD64DE4D420CCCDBA87E9022416B44.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset'
+[2024.06.09-07.57.50:747][857]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2024.06.09-07.57.50:747][857]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
+[2024.06.09-07.57.50:747][857]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
+[2024.06.09-07.58.44:093][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.09-07.58.44:097][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.06.09-07.58.44:128][ 55]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage18EC877054A51880D1CC9218A8410C493.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap'
+[2024.06.09-07.58.44:141][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1_BuiltData" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset" SILENT=true
+[2024.06.09-07.58.44:177][ 55]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1_BuiltDataF684CE81472D381C78175CA932BA5C2C.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset'
+[2024.06.09-07.58.44:187][ 55]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2024.06.09-07.58.44:187][ 55]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
+[2024.06.09-07.58.44:187][ 55]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
+[2024.06.09-07.58.46:541][194]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2024.06.09-07.58.46:547][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.09-07.58.46:547][194]PIE: New page: PIE 세션: Stage1 (2024. 6. 10. 오전 1:58:46)
+[2024.06.09-07.58.46:547][194]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage1
+[2024.06.09-07.58.46:552][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004343s)
+[2024.06.09-07.58.46:553][194]LogAIModule: Creating AISystem for world Stage1
+[2024.06.09-07.58.46:553][194]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2024.06.09-07.58.46:553][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage1.Stage1 to /Game/Maps/UEDPIE_0_Stage1.Stage1 (0.005287s)
+[2024.06.09-07.58.46:557][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.06.09-07.58.46:558][194]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.06.09-07.58.46:558][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.09-07.58.46:558][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.09-07.58.46:558][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.09-07.58.46:558][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.09-07.58.46:558][194]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.09-07.58.46:558][194]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.09-07.58.46:558][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.09-07.58.46:558][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.09-07.58.46:558][194]LogAudio: Display: Using built-in audio occlusion.
+[2024.06.09-07.58.46:558][194]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.09-07.58.46:560][194]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.09-07.58.46:560][194]LogAudioMixer: Display: 1: FrontRight
+[2024.06.09-07.58.46:576][194]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2024.06.09-07.58.46:576][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.09-07.58.46:576][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.09-07.58.46:576][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.09-07.58.46:576][194]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.09-07.58.46:576][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.09-07.58.46:576][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.09-07.58.46:590][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.09-07.58.46:591][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.09-07.58.46:591][194]LogInit: FAudioDevice initialized.
+[2024.06.09-07.58.46:591][194]LogAudio: Display: Audio Device (ID: 6) registered with world 'Stage1'.
+[2024.06.09-07.58.46:617][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.09-07.58.46:618][194]LogLoad: Game class is 'donutGameMode'
+[2024.06.09-07.58.46:620][194]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 60) at 2024.06.09-16.58.46
+[2024.06.09-07.58.46:620][194]LogWorld: Bringing up level for play took: 0.002301
+[2024.06.09-07.58.46:621][194]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2024.06.09-07.58.46:625][194]PIE: 서버가 로그인했습니다.
+[2024.06.09-07.58.46:627][194]PIE: 에디터에서 플레이 총 시작 시간 0.08초입니다.
+[2024.06.09-07.58.53:163][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.09-07.58.53:163][582]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage1
+[2024.06.09-07.58.53:164][582]LogSlate: Window 'donut 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2024.06.09-07.58.53:167][582]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.58.53:167][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.58.53:172][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.09-07.58.53:180][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.58.53:185][582]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.09-07.58.53:185][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.09-07.58.53:186][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.09-07.58.53:202][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.06.09-07.58.53:223][583]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.06.09-07.58.53:892][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.09-07.58.53:896][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.06.09-07.58.53:925][622]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1AD2AB7224A67260D3BCBCF9FB0E48B43.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap'
+[2024.06.09-07.58.53:937][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1_BuiltData" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset" SILENT=true
+[2024.06.09-07.58.53:973][622]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1_BuiltData6B684CCF4FB78EEE26741D84D33E0C01.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset'
+[2024.06.09-07.58.53:981][622]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2024.06.09-07.58.53:982][622]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
+[2024.06.09-07.58.53:982][622]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
+[2024.06.09-07.58.55:038][684]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem
+[2024.06.09-07.59.13:832][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewParticleSystem" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset" SILENT=true
+[2024.06.09-07.59.13:839][791]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/NewParticleSystemB98D81B544F61E38A8D788BB78EC5E19.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/NewParticleSystem.uasset'
+[2024.06.09-07.59.13:850][791]AssetCheck: New page: 애셋 저장: NewParticleSystem
+[2024.06.09-07.59.13:850][791]LogContentValidation: Display: ParticleSystem /Game/Maps/NewParticleSystem.NewParticleSystem 유효성 검사
+[2024.06.09-07.59.15:342][864]LogSlate: Window 'NewParticleSystem' being destroyed
+[2024.06.09-07.59.15:346][864]LogSlate: Window 'NewParticleSystem' being destroyed
+[2024.06.09-07.59.15:346][864]LogCascade: Quitting Cascade. FXSystem=0x00000150D6EE3A60
+[2024.06.09-07.59.15:358][864]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.59.15:358][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.59.16:031][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.09-07.59.16:036][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.06.09-07.59.16:074][901]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1B95CB9644AD6E58DE3CEC98B08B6AB0E.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap'
+[2024.06.09-07.59.16:088][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1_BuiltData" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset" SILENT=true
+[2024.06.09-07.59.16:127][901]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1_BuiltData4162E7D341E35E3E364D7F8C94FC23F0.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset'
+[2024.06.09-07.59.16:138][901]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2024.06.09-07.59.16:138][901]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
+[2024.06.09-07.59.16:138][901]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
+[2024.06.09-07.59.31:753][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.09-07.59.31:757][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.06.09-07.59.31:789][837]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage19D32FC5640921333B8164C9AF04344A3.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap'
+[2024.06.09-07.59.31:802][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1_BuiltData" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset" SILENT=true
+[2024.06.09-07.59.31:839][837]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1_BuiltData4FF3609F408BB3560B0D5FADB973F25E.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset'
+[2024.06.09-07.59.31:849][837]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2024.06.09-07.59.31:849][837]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
+[2024.06.09-07.59.31:849][837]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
+[2024.06.09-07.59.32:696][886]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2024.06.09-07.59.32:702][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.09-07.59.32:702][886]PIE: New page: PIE 세션: Stage1 (2024. 6. 10. 오전 1:59:32)
+[2024.06.09-07.59.32:702][886]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage1
+[2024.06.09-07.59.32:706][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005158s)
+[2024.06.09-07.59.32:708][886]LogAIModule: Creating AISystem for world Stage1
+[2024.06.09-07.59.32:708][886]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2024.06.09-07.59.32:708][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage1.Stage1 to /Game/Maps/UEDPIE_0_Stage1.Stage1 (0.006119s)
+[2024.06.09-07.59.32:712][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.06.09-07.59.32:712][886]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.06.09-07.59.32:712][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.09-07.59.32:712][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.09-07.59.32:712][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.09-07.59.32:712][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.09-07.59.32:712][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.09-07.59.32:712][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.09-07.59.32:712][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.09-07.59.32:712][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.09-07.59.32:712][886]LogAudio: Display: Using built-in audio occlusion.
+[2024.06.09-07.59.32:712][886]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.09-07.59.32:716][886]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.09-07.59.32:716][886]LogAudioMixer: Display: 1: FrontRight
+[2024.06.09-07.59.32:734][886]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2024.06.09-07.59.32:735][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.09-07.59.32:735][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.09-07.59.32:735][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.09-07.59.32:735][886]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.09-07.59.32:735][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.09-07.59.32:735][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.09-07.59.32:750][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.09-07.59.32:750][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.09-07.59.32:750][886]LogInit: FAudioDevice initialized.
+[2024.06.09-07.59.32:750][886]LogAudio: Display: Audio Device (ID: 7) registered with world 'Stage1'.
+[2024.06.09-07.59.32:776][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.09-07.59.32:776][886]LogLoad: Game class is 'donutGameMode'
+[2024.06.09-07.59.32:779][886]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 60) at 2024.06.09-16.59.32
+[2024.06.09-07.59.32:780][886]LogWorld: Bringing up level for play took: 0.002690
+[2024.06.09-07.59.32:781][886]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2024.06.09-07.59.32:784][886]PIE: 서버가 로그인했습니다.
+[2024.06.09-07.59.32:786][886]PIE: 에디터에서 플레이 총 시작 시간 0.085초입니다.
+[2024.06.09-07.59.49:953][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.09-07.59.49:953][914]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage1
+[2024.06.09-07.59.49:953][914]LogSlate: Window 'donut 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2024.06.09-07.59.49:957][914]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-07.59.49:958][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.59.49:964][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.09-07.59.49:973][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-07.59.49:977][914]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.09-07.59.49:977][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.09-07.59.49:978][914]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.09-07.59.49:994][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.06.09-07.59.50:031][916]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.06.09-08.00.49:233][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.09-08.00.49:238][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.06.09-08.00.49:270][465]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1BB94BD21446496A262E05499280A895A.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1.umap'
+[2024.06.09-08.00.49:284][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Stage1_BuiltData" FILE="../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset" SILENT=true
+[2024.06.09-08.00.49:320][465]LogSavePackage: Moving '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Saved/Stage1_BuiltData152C386346792AFA58CBF7A873BF65B5.tmp' to '../../../../../../Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset'
+[2024.06.09-08.00.49:334][465]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2024.06.09-08.00.49:334][465]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
+[2024.06.09-08.00.49:334][465]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
