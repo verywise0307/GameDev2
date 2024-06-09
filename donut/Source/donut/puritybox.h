@@ -21,8 +21,12 @@ protected:
 
 private:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = puritybox, meta = (AllowPrivateAccess = "true"))
-		class USceneComponent* RootScene;	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = puritybox, meta = (AllowPrivateAccess = "true"))
-		class UBoxComponent* CollisionBox;	// Timer handle for the purity decrement timer
+		class USceneComponent* RootScene;
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = puritybox, meta = (AllowPrivateAccess = "true"))
+		class UBoxComponent* CollisionBox;
+
+	// Timer handle for the purity decrement timer
 	FTimerHandle PurityDecrementTimerHandle;
 
 public:	
