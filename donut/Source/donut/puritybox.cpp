@@ -24,7 +24,7 @@ Apuritybox::Apuritybox()
 	CollisionBox->SetBoxExtent(FVector(100.0f, 100.0f, 10.0f));
 
 	//SetRelativeLocation 함수를 사용해 Z축에 대해 120유닛만큼 상대 위치를 조정합니다
-	CollisionBox->SetRelativeLocation(FVector(0.0f, 0.0f, 120.0f));
+	CollisionBox->SetRelativeLocation(FVector(0.0f, 0.0f, 0.0f));
 	CollisionBox->OnComponentBeginOverlap.AddDynamic(this, &Apuritybox::OnBeginOverlap);
 
 }
@@ -34,7 +34,7 @@ void Apuritybox::BeginPlay()
 {
 	Super::BeginPlay();
 	
-	// 타이머를 시작하여 1초마다 DecreasePurity 함수 호출
+	// 콜라이더에 닿았을 때 타이머 시작
 	GetWorldTimerManager().SetTimer(PurityDecrementTimerHandle, this, &Apuritybox::DecreasePurity, 1.0f, true);
 }
 
@@ -47,7 +47,8 @@ void Apuritybox::Tick(float DeltaTime)
 
 void Apuritybox::OnBeginOverlap(UPrimitiveComponent * OverlappedComp, AActor * OtherActor, UPrimitiveComponent * OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult & SweepResult)
 {
-	if (OtherActor->IsA<APawn>())
+	// OtherActor가 PP_addForce 클래스의 인스턴스인지 확인
+	if (OtherActor && OtherActor->IsA<APawn>())
 	{
 		APawn* OverlappingPawn = Cast<APawn>(OtherActor);
 		if (OverlappingPawn && OverlappingPawn->GetClass()->GetName() == "PP_addForce")
@@ -55,6 +56,12 @@ void Apuritybox::OnBeginOverlap(UPrimitiveComponent * OverlappedComp, AActor * O
 			DecreasePurity();
 		}
 	}
+}
+
+void Apuritybox::OnEndOverlap(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex)
+{
+	// 콜라이더에서 벗어났을 때 타이머 중지
+	//GetWorldTimerManager().ClearTimer(PurityDecrementTimerHandle);
 }
 
 class AdonutGameInstance;
