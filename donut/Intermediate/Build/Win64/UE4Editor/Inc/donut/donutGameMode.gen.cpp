@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -73,7 +73,7 @@ void EmptyLinkFunctionForGeneratedCodedonutGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AdonutGameMode, 343831442);
+	IMPLEMENT_CLASS(AdonutGameMode, 1523069470);
 	template<> DONUT_API UClass* StaticClass<AdonutGameMode>()
 	{
 		return AdonutGameMode::StaticClass();
