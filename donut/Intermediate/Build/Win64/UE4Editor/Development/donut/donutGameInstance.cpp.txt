@@ -1,0 +1,3 @@
+C:\Users\PC\Documents\GitHub\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\Definitions.donut.h
+C:\Users\PC\Documents\GitHub\GameDev2\donut\Source\donut\donutGameInstance.h
+C:\Users\PC\Documents\GitHub\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Inc\donut\donutGameInstance.generated.h
