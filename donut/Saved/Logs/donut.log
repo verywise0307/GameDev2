@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 ﻿Log file open, 06/09/24 18:22:58
-=======
-﻿Log file open, 06/09/24 14:59:17
->>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
 =======
 ﻿Log file open, 06/09/24 14:59:17
 >>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
@@ -17,16 +13,12 @@ LogStats: Stats thread started at 0.210304
 =======
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.199988
-<<<<<<< HEAD
->>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
-=======
 >>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
-<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -77,18 +69,6 @@ LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin ChaosClothEditor
 =======
-=======
-LogPluginManager: Mounting plugin EnvironmentQueryEditor
-LogPluginManager: Mounting plugin AISupport
-LogPluginManager: Mounting plugin LightPropagationVolume
-LogPluginManager: Mounting plugin AnimationSharing
-LogPluginManager: Mounting plugin CameraShakePreviewer
-LogPluginManager: Mounting plugin CLionSourceCodeAccess
-LogPluginManager: Mounting plugin GitSourceControl
-LogPluginManager: Mounting plugin PerforceSourceControl
-LogPluginManager: Mounting plugin PlasticSourceControl
-LogPluginManager: Mounting plugin PluginUtils
->>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
@@ -119,9 +99,6 @@ LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin ChaosClothEditor
 LogPluginManager: Mounting plugin ChaosNiagara
-<<<<<<< HEAD
->>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
-=======
 >>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
 LogPluginManager: Mounting plugin ChaosEditor
 LogPluginManager: Mounting plugin ChaosSolverPlugin
@@ -146,7 +123,6 @@ LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 <<<<<<< HEAD
-<<<<<<< HEAD
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaPlayerEditor
@@ -159,8 +135,6 @@ LogPluginManager: Mounting plugin TemplateSequence
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
 =======
-=======
->>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
@@ -173,9 +147,6 @@ LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin TemplateSequence
-<<<<<<< HEAD
->>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
-=======
 >>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
@@ -195,9 +166,6 @@ LogPluginManager: Mounting plugin AudioCapture
 <<<<<<< HEAD
 =======
 LogPluginManager: Mounting plugin CableComponent
-<<<<<<< HEAD
->>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
-=======
 >>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin AudioSynesthesia
@@ -206,10 +174,6 @@ LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
-LogPluginManager: Mounting plugin GooglePAD
->>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
 =======
 LogPluginManager: Mounting plugin GooglePAD
 >>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
@@ -221,10 +185,7 @@ LogPluginManager: Mounting plugin LocationServicesBPLibrary
 LogPluginManager: Mounting plugin MobilePatchingUtils
 LogPluginManager: Mounting plugin PostSplashScreen
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
-=======
->>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
 LogPluginManager: Mounting plugin PhysXVehicles
 LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin PropertyAccessEditor
@@ -328,7 +289,6 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-<<<<<<< HEAD
 <<<<<<< HEAD
 [2024.06.09-09.22.59:069][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2024.06.09-09.22.59:069][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -734,8 +694,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.09-09.23.03:528][  0]LogCore: Engine exit requested (reason: Win RequestExit)
 [2024.06.09-09.23.03:538][  0]Log file closed, 06/09/24 18:23:03
 =======
-=======
->>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
 [2024.06.09-05.59.17:819][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2024.06.09-05.59.17:819][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2024.06.09-05.59.17:819][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/yena/Desktop/GameDev2/GameDev2/donut/Saved/Config/Windows/Engine.ini]
@@ -2026,7 +1984,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.09-06.15.54:855][826]LogD3D11RHI: CleanupD3DDevice
 [2024.06.09-06.15.54:871][826]LogExit: Exiting.
 [2024.06.09-06.15.54:880][826]Log file closed, 06/09/24 15:15:54
-<<<<<<< HEAD
->>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
-=======
 >>>>>>> parent of e3001bd (puritybox.cpp 빼고 푸시)
