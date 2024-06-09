@@ -883,3 +883,66 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.09-03.08.04:415][407]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
 [2024.06.09-03.08.04:415][407]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/Stage1_BuiltData.Stage1_BuiltData 유효성 검사
 [2024.06.09-03.08.04:415][407]LogContentValidation: Display: World /Game/Maps/Stage1.Stage1 유효성 검사
+[2024.06.09-03.15.31:196][915]LogTemp: Repeating last play command: 새 에디터 창 (PIE)
+[2024.06.09-03.15.31:202][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.09-03.15.31:202][915]PIE: New page: PIE 세션: Stage1 (2024. 6. 9. 오후 9:15:31)
+[2024.06.09-03.15.31:202][915]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage1
+[2024.06.09-03.15.31:207][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004614s)
+[2024.06.09-03.15.31:208][915]LogAIModule: Creating AISystem for world Stage1
+[2024.06.09-03.15.31:208][915]LogPlayLevel: PIE: World Init took: (0.000859s)
+[2024.06.09-03.15.31:208][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage1.Stage1 to /Game/Maps/UEDPIE_0_Stage1.Stage1 (0.005580s)
+[2024.06.09-03.15.31:212][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.06.09-03.15.31:213][915]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.06.09-03.15.31:213][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.09-03.15.31:213][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.09-03.15.31:213][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.09-03.15.31:213][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.09-03.15.31:213][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.09-03.15.31:213][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.09-03.15.31:213][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.09-03.15.31:213][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.09-03.15.31:213][915]LogAudio: Display: Using built-in audio occlusion.
+[2024.06.09-03.15.31:213][915]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.09-03.15.31:215][915]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.09-03.15.31:215][915]LogAudioMixer: Display: 1: FrontRight
+[2024.06.09-03.15.31:231][915]LogAudioMixer: Display: Using Audio Device 스피커(Realtek(R) Audio)
+[2024.06.09-03.15.31:231][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.09-03.15.31:231][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.09-03.15.31:231][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.09-03.15.31:232][915]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.09-03.15.31:232][915]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.09-03.15.31:232][915]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.09-03.15.31:245][915]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.09-03.15.31:245][915]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.09-03.15.31:245][915]LogInit: FAudioDevice initialized.
+[2024.06.09-03.15.31:245][915]LogAudio: Display: Audio Device (ID: 3) registered with world 'Stage1'.
+[2024.06.09-03.15.31:271][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.09-03.15.31:271][915]LogLoad: Game class is 'donutGameMode'
+[2024.06.09-03.15.31:274][915]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 0) at 2024.06.09-12.15.31
+[2024.06.09-03.15.31:274][915]LogWorld: Bringing up level for play took: 0.002349
+[2024.06.09-03.15.31:275][915]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2024.06.09-03.15.31:281][915]PIE: 서버가 로그인했습니다.
+[2024.06.09-03.15.31:282][915]PIE: 에디터에서 플레이 총 시작 시간 0.08초입니다.
+[2024.06.09-03.15.38:073][691]LogBlueprintUserMessages: [PP_AddForce_8] icecream
+[2024.06.09-03.15.50:269][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.09-03.15.50:269][137]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Stage1
+[2024.06.09-03.15.50:269][137]LogSlate: Window 'donut 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2024.06.09-03.15.50:272][137]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2024.06.09-03.15.50:272][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-03.15.50:278][137]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.09-03.15.50:291][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.09-03.15.50:295][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.09-03.15.50:296][137]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.09-03.15.50:313][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.06.09-03.15.50:336][138]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.06.09-04.09.11:846][556]LogHotReload: New module detected: UE4Editor-donut-4564.dll
+[2024.06.09-04.09.11:863][557]LogHotReload: Starting Hot-Reload from IDE
+[2024.06.09-04.09.11:927][557]LogClass: Could not find existing class donutCharacter in package /Script/donut for HotReload, assuming new class
+[2024.06.09-04.09.11:928][557]LogClass: Could not find existing class donutState in package /Script/donut for HotReload, assuming new class
+[2024.06.09-04.09.11:928][557]LogClass: Could not find existing class puritybox in package /Script/donut for HotReload, assuming new class
+[2024.06.09-04.09.11:928][557]LogClass: Function OnBeginOverlap is new.
+[2024.06.09-04.09.11:935][557]LogHotReload: Re-instancing donutCharacter after hot-reload.
+[2024.06.09-04.09.11:952][557]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'donut' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2024.06.09-04.09.11:956][557]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2024.06.09-04.09.12:009][557]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0090 seconds. Added 3605 classes and 861 folders.
+[2024.06.09-04.09.12:035][557]Display: HotReload took  0.2s.
