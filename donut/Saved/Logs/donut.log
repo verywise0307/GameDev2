@@ -882,3 +882,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.09-09.19.46:849][271]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.06.09-09.19.46:870][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
 [2024.06.09-09.19.47:078][272]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.06.09-09.20.19:574][370]LogAssetRegistry: Error: Package C:/Users/NOTE/Documents/GitHub/GameDev2/donut/Content/main/img_howto/move_on.uasset has malformed tag
+[2024.06.09-09.20.19:896][371]LogAssetRegistry: Error: Package C:/Users/NOTE/Documents/GitHub/GameDev2/donut/Content/main/img_howto/move_on.uasset has malformed tag
