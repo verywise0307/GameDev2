@@ -19,13 +19,11 @@ struct FHitResult;
 #define donut_Source_donut_puritybox_h_12_SPARSE_DATA
 #define donut_Source_donut_puritybox_h_12_RPC_WRAPPERS \
  \
-	DECLARE_FUNCTION(execOnEndOverlap); \
 	DECLARE_FUNCTION(execOnBeginOverlap);
 
 
 #define donut_Source_donut_puritybox_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
  \
-	DECLARE_FUNCTION(execOnEndOverlap); \
 	DECLARE_FUNCTION(execOnBeginOverlap);
 
 
