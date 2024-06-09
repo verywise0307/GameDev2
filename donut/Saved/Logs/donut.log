@@ -800,3 +800,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.09-05.26.41:132][617]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0088 seconds. Added 3605 classes and 861 folders.
 [2024.06.09-05.26.41:137][617]Display: HotReload took  0.1s.
 [2024.06.09-05.31.24:681][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2024.06.09-05.47.38:567][250]LogAssetRegistry: Error: Package C:/Users/yena/Desktop/GameDev2/GameDev2/donut/Content/Maps/Stage1_BuiltData.uasset has malformed tag
