@@ -8,3 +8,5 @@ donut/Intermediate/CachedAssetRegistry.bin
 donut/Intermediate/Build/Win64/donutEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch
 GameDev2\.git\lfs\logs\20240608T132339.104969.log
 Intermediate/Build/Win64/donutEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch
+*.log
+donut/Saved/Logs/donut.log
