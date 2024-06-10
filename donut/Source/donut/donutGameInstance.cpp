@@ -9,4 +9,5 @@ UdonutGameInstance::UdonutGameInstance()
 	freshness = 100;
 	purity = 100;
 	flavor = 0;
+	shield = 0;
 }

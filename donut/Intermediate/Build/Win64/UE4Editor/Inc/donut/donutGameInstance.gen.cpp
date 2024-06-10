@@ -43,6 +43,10 @@ void EmptyLinkFunctionForGeneratedCodedonutGameInstance() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_flavor_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FIntPropertyParams NewProp_flavor;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_shield_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FIntPropertyParams NewProp_shield;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -79,10 +83,18 @@ void EmptyLinkFunctionForGeneratedCodedonutGameInstance() {}
 	};
 #endif
 	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UClass_UdonutGameInstance_Statics::NewProp_flavor = { "flavor", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UdonutGameInstance, flavor), METADATA_PARAMS(Z_Construct_UClass_UdonutGameInstance_Statics::NewProp_flavor_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UdonutGameInstance_Statics::NewProp_flavor_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UdonutGameInstance_Statics::NewProp_shield_MetaData[] = {
+		{ "Category", "My Variables" },
+		{ "ModuleRelativePath", "donutGameInstance.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FIntPropertyParams Z_Construct_UClass_UdonutGameInstance_Statics::NewProp_shield = { "shield", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UdonutGameInstance, shield), METADATA_PARAMS(Z_Construct_UClass_UdonutGameInstance_Statics::NewProp_shield_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UdonutGameInstance_Statics::NewProp_shield_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_UdonutGameInstance_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UdonutGameInstance_Statics::NewProp_purity,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UdonutGameInstance_Statics::NewProp_freshness,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UdonutGameInstance_Statics::NewProp_flavor,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UdonutGameInstance_Statics::NewProp_shield,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_UdonutGameInstance_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<UdonutGameInstance>::IsAbstract,
@@ -111,7 +123,7 @@ void EmptyLinkFunctionForGeneratedCodedonutGameInstance() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(UdonutGameInstance, 4079108643);
+	IMPLEMENT_CLASS(UdonutGameInstance, 2467327787);
 	template<> DONUT_API UClass* StaticClass<UdonutGameInstance>()
 	{
 		return UdonutGameInstance::StaticClass();

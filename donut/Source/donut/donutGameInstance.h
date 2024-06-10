@@ -25,4 +25,7 @@ public:
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "My Variables")
 	int32 flavor;
+
+	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category = "My Variables")
+	int32 shield;
 };
