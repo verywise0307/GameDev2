@@ -1120,3 +1120,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData
 [2024.06.10-20.58.28:437][766]AssetCheck: New page: 애셋 저장: ThirdPersonExampleMap
 [2024.06.10-20.58.28:437][766]LogContentValidation: Display: World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap 유효성 검사
+[2024.06.10-20.59.09:375][ 55]LogHotReload: New module detected: UE4Editor-donut-0085.dll
+[2024.06.10-20.59.09:375][ 55]LogHotReload: New module detected: UE4Editor-donut-7880.dll
+[2024.06.10-20.59.09:398][ 56]LogHotReload: Starting Hot-Reload from IDE
+[2024.06.10-20.59.09:474][ 56]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'donut' in 0.0003 seconds. Added 5 classes and 2 folders.
+[2024.06.10-20.59.09:477][ 56]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2024.06.10-20.59.09:536][ 56]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0138 seconds. Added 3606 classes and 861 folders.
+[2024.06.10-20.59.09:560][ 56]Display: HotReload took  0.2s.
+[2024.06.10-20.59.10:388][ 58]LogAssetRegistry: Error: Package C:/Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/House_map/stage1_house_BuiltData.uasset has malformed tag
+[2024.06.10-20.59.10:388][ 58]LogAssetRegistry: Error: Package C:/Users/NOTE/Documents/GitHub/GameDev2/donut/Content/AssetsvilleTown/Meshes/InteriorProps/Office/SM_Chair_02.uasset has malformed tag
+[2024.06.10-20.59.52:984][186]LogAssetRegistry: Error: Package C:/Users/NOTE/Documents/GitHub/GameDev2/donut/Content/Maps/House_map/stage1_house_BuiltData.uasset has malformed tag
