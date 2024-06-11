@@ -1,3 +1,3 @@
-C:\Users\NOTE\Documents\GitHub\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\Definitions.donut.h
-C:\Users\NOTE\Documents\GitHub\GameDev2\donut\Source\donut\donutGameInstance.h
-C:\Users\NOTE\Documents\GitHub\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Inc\donut\donutGameInstance.generated.h
+C:\Users\yena\Desktop\GameDev2\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\Definitions.donut.h
+C:\Users\yena\Desktop\GameDev2\GameDev2\donut\Source\donut\donutGameInstance.h
+C:\Users\yena\Desktop\GameDev2\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Inc\donut\donutGameInstance.generated.h
