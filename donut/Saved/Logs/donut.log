@@ -943,3 +943,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.19-10.36.40:510][209]LogPlayLevel: Display: Destroying online subsystem :Context_2
 [2024.06.19-11.03.44:668][262]LogAssetRegistry: Error: Package C:/Users/yena/Desktop/GameDev2/GameDev2/donut/Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset has malformed tag
 [2024.06.19-11.03.44:990][263]LogAssetRegistry: Error: Package C:/Users/yena/Desktop/GameDev2/GameDev2/donut/Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset has malformed tag
+[2024.06.19-11.04.56:114][474]LogAssetRegistry: Error: Package C:/Users/yena/Desktop/GameDev2/GameDev2/donut/Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset has malformed tag
+[2024.06.19-11.04.56:452][476]LogAssetRegistry: Error: Package C:/Users/yena/Desktop/GameDev2/GameDev2/donut/Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset has malformed tag
