@@ -945,3 +945,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.19-11.03.44:990][263]LogAssetRegistry: Error: Package C:/Users/yena/Desktop/GameDev2/GameDev2/donut/Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset has malformed tag
 [2024.06.19-11.04.56:114][474]LogAssetRegistry: Error: Package C:/Users/yena/Desktop/GameDev2/GameDev2/donut/Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset has malformed tag
 [2024.06.19-11.04.56:452][476]LogAssetRegistry: Error: Package C:/Users/yena/Desktop/GameDev2/GameDev2/donut/Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset has malformed tag
+[2024.06.19-11.05.07:856][509]LogAssetRegistry: Error: Package C:/Users/yena/Desktop/GameDev2/GameDev2/donut/Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset has malformed tag
+[2024.06.19-11.05.08:194][511]LogAssetRegistry: Error: Package C:/Users/yena/Desktop/GameDev2/GameDev2/donut/Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset has malformed tag
+[2024.06.19-11.05.21:609][550]LogAssetRegistry: Error: Package C:/Users/yena/Desktop/GameDev2/GameDev2/donut/Content/AssetsvilleTown/Maps/Demonstration_BuiltData.uasset has malformed tag
