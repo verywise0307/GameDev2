@@ -1,5 +1,5 @@
-C:\Users\yena\Desktop\GameDev2\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\Definitions.donut.h
+C:\Users\NOTE\Documents\GitHub\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Development\donut\Definitions.donut.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\yena\Desktop\GameDev2\GameDev2\donut\Source\donut/puritybox.h
-C:\Users\yena\Desktop\GameDev2\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Inc\donut\puritybox.generated.h
+C:\Users\NOTE\Documents\GitHub\GameDev2\donut\Source\donut/puritybox.h
+C:\Users\NOTE\Documents\GitHub\GameDev2\donut\Intermediate\Build\Win64\UE4Editor\Inc\donut\puritybox.generated.h
